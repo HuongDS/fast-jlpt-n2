@@ -44,6 +44,7 @@ export default function PracticePage() {
   const customPracticeSentences = useProgressStore((state) => state.customPracticeSentences);
   const addCustomPracticeSentence = useProgressStore((state) => state.addCustomPracticeSentence);
   const deleteCustomPracticeSentence = useProgressStore((state) => state.deleteCustomPracticeSentence);
+  const logActivity = useProgressStore((state) => state.logActivity);
   const setToastMessage = useProgressStore((state) => state.setToastMessage);
 
   // Source selection state
@@ -207,6 +208,7 @@ export default function PracticePage() {
     setEvalResult(result);
     setIsShowingOriginal(true);
     setIsGrading(false);
+    logActivity();
   };
 
   const handleNextCard = () => {

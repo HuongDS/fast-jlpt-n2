@@ -86,7 +86,19 @@ const INITIAL_NOTES: Note[] = [
   },
 ];
 
+export const getTodayDateString = (date: Date = new Date()): string => {
+  const year = date.getFullYear();
+  const month = String(date.getMonth() + 1).padStart(2, "0");
+  const day = String(date.getDate()).padStart(2, "0");
+  return `${year}-${month}-${day}`;
+};
+
 interface ProgressState {
+  // Activity Heatmap Tracking
+  activityLog: Record<string, number>; // YYYY-MM-DD -> số action thực tế
+  logActivity: (dateStr?: string, count?: number) => void;
+  clearActivityLog: () => void;
+
   // Course completion & SRS
   completedSections: string[];
   srsData: Record<string, SRSItem>;
@@ -165,6 +177,22 @@ const ONE_DAY_MS = 24 * 60 * 60 * 1000;
 export const useProgressStore = create<ProgressState>()(
   persist(
     (set, get) => ({
+      activityLog: {},
+
+      logActivity: (dateStr?: string, count: number = 1) => {
+        const dateKey = dateStr || getTodayDateString();
+        set((state) => ({
+          activityLog: {
+            ...state.activityLog,
+            [dateKey]: (state.activityLog[dateKey] || 0) + count,
+          },
+        }));
+      },
+
+      clearActivityLog: () => {
+        set({ activityLog: {} });
+      },
+
       completedSections: [],
       srsData: {},
       studiedItems: {},
@@ -200,6 +228,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       markSectionCompleted: (sectionId: string) => {
+        get().logActivity(undefined, 5);
         set((state) => {
           if (state.completedSections.includes(sectionId)) return state;
           return {
@@ -209,6 +238,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       updateReview: (flashcardId: string, isCorrect: boolean) => {
+        get().logActivity();
         set((state) => {
           const now = Date.now();
           const current = state.srsData[flashcardId];
@@ -245,6 +275,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       markItemStudied: (cardId: string) => {
+        get().logActivity();
         set((state) => ({
           studiedItems: {
             ...state.studiedItems,
@@ -262,6 +293,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       markFlashcardMastered: (cardId: string) => {
+        get().logActivity();
         set((state) => ({
           masteredFlashcardIds: {
             ...state.masteredFlashcardIds,
@@ -414,6 +446,8 @@ export const useProgressStore = create<ProgressState>()(
           return { success: false, message: "Từ này đã có trong sổ tay" };
         }
 
+        get().logActivity();
+
         const newItem: NotebookItem = {
           ...item,
           id: `item-${Date.now()}-${Math.random().toString(36).substring(2, 7)}`,
@@ -434,6 +468,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       updateUserTranslation: (itemId: string, translation: string, isCompleted = true) => {
+        get().logActivity();
         set((state) => ({
           notebookItems: state.notebookItems.map((item) =>
             item.id === itemId
@@ -448,6 +483,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       addNote: (notebookId: string, initialContent = "") => {
+        get().logActivity();
         const id = `note-${Date.now()}-${Math.random().toString(36).substring(2, 6)}`;
         const title = extractNoteTitle(initialContent) || "Ghi chú mới";
         const newNote: Note = {
@@ -464,6 +500,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       updateNote: (id: string, content: string, title?: string) => {
+        get().logActivity();
         set((state) => ({
           notes: state.notes.map((note) => {
             if (note.id !== id) return note;
@@ -485,6 +522,7 @@ export const useProgressStore = create<ProgressState>()(
       },
 
       addCustomPracticeSentence: (wordKey, sentence) => {
+        get().logActivity(undefined, 2);
         const id = `extra-${Date.now()}-${Math.random().toString(36).substring(2, 6)}`;
         set((state) => {
           const list = state.customPracticeSentences[wordKey] || [];
@@ -535,6 +573,7 @@ export const useProgressStore = create<ProgressState>()(
           srsData: {},
           studiedItems: {},
           masteredFlashcardIds: {},
+          activityLog: {},
         });
       },
     }),
@@ -553,6 +592,14 @@ export const useProgressStore = create<ProgressState>()(
       onRehydrateStorage: () => (state) => {
         if (state) {
           state.deduplicateNotebooks();
+          const todayStr = getTodayDateString();
+          if (state.activityLog) {
+            const keys = Object.keys(state.activityLog);
+            if (keys.length > 5 && keys.some((k) => k < todayStr)) {
+              const todayCount = state.activityLog[todayStr] || 0;
+              state.activityLog = todayCount > 0 ? { [todayStr]: todayCount } : {};
+            }
+          }
         }
       },
     }

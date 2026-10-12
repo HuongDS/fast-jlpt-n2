@@ -3,7 +3,7 @@
 import React, { useState, useEffect } from "react";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { Calendar, Clock, Flame, RotateCcw, Sparkles, Map, BookMarked, Layers, PenTool, Settings } from "lucide-react";
+import { Calendar, Clock, Flame, RotateCcw, Sparkles, Map, BookMarked, Layers, PenTool, Settings, Shield } from "lucide-react";
 import { useProgressStore } from "@/store/useProgressStore";
 import { FastJlptLogo } from "@/components/FastJlptLogo";
 
@@ -95,6 +95,22 @@ export const CountdownHeader: React.FC = () => {
           >
             <PenTool className="w-3.5 h-3.5 text-emerald-600" />
             <span>Luyện dịch AI</span>
+          </Link>
+
+          <Link
+            href="/games/grammar-sort"
+            className="px-3 py-1.5 rounded-xl hover:text-purple-700 hover:bg-purple-50 text-purple-800 transition-all flex items-center space-x-1.5 border border-purple-200/60 font-bold"
+          >
+            <Sparkles className="w-3.5 h-3.5 text-purple-600" />
+            <span>Xếp hình ngữ pháp ★</span>
+          </Link>
+
+          <Link
+            href="/games/kanji-defense"
+            className="px-3 py-1.5 rounded-xl hover:text-indigo-700 hover:bg-indigo-50 text-indigo-800 transition-all flex items-center space-x-1.5 border border-indigo-200/60 font-bold"
+          >
+            <Shield className="w-3.5 h-3.5 text-indigo-600" />
+            <span>Kanji Defense ⚔️</span>
           </Link>
         </nav>
 

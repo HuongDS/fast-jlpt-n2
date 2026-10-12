@@ -10,6 +10,7 @@ import { StudyScreen } from "@/components/StudyScreen";
 import { MaziiLookup } from "@/components/MaziiLookup";
 import { Toast } from "@/components/Toast";
 import { Section } from "@/data/books";
+import { ActivityHeatmap } from "@/components/ActivityHeatmap";
 import { Info } from "lucide-react";
 
 export default function Home() {
@@ -71,6 +72,9 @@ export default function Home() {
           onStartReview={handleOpenQuickReview}
           onExploreCurriculum={handleScrollToCurriculum}
         />
+
+        {/* Learning Discipline Heatmap (GitHub-style 52-week activity calendar) */}
+        <ActivityHeatmap />
 
         {/* Roadmap Graph (Step-by-Step interactive graph milestones) */}
         <div id="roadmap">

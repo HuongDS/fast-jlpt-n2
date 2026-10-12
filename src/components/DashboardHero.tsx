@@ -152,6 +152,24 @@ export const DashboardHero: React.FC<DashboardHeroProps> = ({
               <PenTool className="w-3.5 h-3.5 text-purple-600" />
               <span>Luyện dịch AI</span>
             </Link>
+
+            {/* Grammar Sort Game Link */}
+            <Link
+              href="/games/grammar-sort"
+              className="inline-flex items-center space-x-2 px-4 py-3.5 rounded-2xl bg-amber-50/80 hover:bg-amber-100/80 text-amber-900 hover:text-amber-950 font-bold text-xs border border-amber-200/80 transition-all shadow-2xs"
+            >
+              <Sparkles className="w-3.5 h-3.5 text-amber-600" />
+              <span>Xếp hình Ngữ pháp ★</span>
+            </Link>
+
+            {/* Kanji Typing Defense Game Link */}
+            <Link
+              href="/games/kanji-defense"
+              className="inline-flex items-center space-x-2 px-4 py-3.5 rounded-2xl bg-indigo-50/80 hover:bg-indigo-100/80 text-indigo-900 hover:text-indigo-950 font-bold text-xs border border-indigo-200/80 transition-all shadow-2xs"
+            >
+              <ShieldCheck className="w-3.5 h-3.5 text-indigo-600" />
+              <span>Kanji Defense ⚔️</span>
+            </Link>
           </div>
 
           {/* Quick Metrics Bar */}

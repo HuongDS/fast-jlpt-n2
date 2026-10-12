@@ -22,9 +22,13 @@ export const FloatingNavBar: React.FC = () => {
 
   if (!mounted) return null;
 
-  // Ẩn thanh Floating khi người dùng đang ở trong route/chế độ làm bài kiểm tra trắc nghiệm
-  const isQuizRoute = pathname?.includes("/quiz") || isQuizActive;
-  if (isQuizRoute) {
+  // Ẩn thanh Floating khi người dùng đang ở trong route/chế độ làm bài kiểm tra trắc nghiệm hoặc mini-games
+  const isHiddenRoute =
+    pathname?.includes("/quiz") ||
+    pathname?.startsWith("/games") ||
+    isQuizActive;
+
+  if (isHiddenRoute) {
     return (
       <AiSettingsModal
         isOpen={isAiModalOpen}
