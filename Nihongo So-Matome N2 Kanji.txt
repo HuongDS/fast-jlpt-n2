@@ -1,0 +1,2213 @@
+#separator:tab
+#html:false
+#tags column:4
+禁止	きんし prohibition		第１週１日目
+禁煙	きんえん no smoking		第１週１日目
+煙	けむり smoke		第１週１日目
+安静な	あんせいな quietly		第１週１日目
+静かな	しずかな quiet		第１週１日目
+静まる	しずまる to become quiet INTRANSITIVE		第１週１日目
+危機	きき a crisis		第１週１日目
+危ない	あぶない dangerous		第１週１日目
+危うい	あやうい dangerous / narrow		第１週１日目
+危険な	きけんな danger		第１週１日目
+険しい	けわしい steep		第１週１日目
+関心	かんしん an interest		第１週１日目
+関わる	かかわる to have to do with INTRANSITIVE		第１週１日目
+〜に関する	〜にかんする related to		第１週１日目
+関係	かんけい a relation / connection		第１週１日目
+係	かかり charge / a person in charge		第１週１日目
+係員	かかりいん a person in charge		第１週１日目
+転落	てんらく a fall		第１週１日目
+落第	らくだい failing / repeating a course		第１週１日目
+落ちる	おちる to fall INTRANSITIVE		第１週１日目
+落とす	おとす to drop TRANSITIVE		第１週１日目
+落石	らくせき falling rocks		第１週１日目
+磁石	じしゃく a magnet / compass		第１週１日目
+飛行場	ひこうじょう an airport		第１週１日目
+飛ぶ	とぶ to fly INTRANSITIVE		第１週１日目
+飛び出す	とびだす to run out suddenly INTRANSITIVE		第１週１日目
+駐車場	ちゅうしゃじょう a parking lot		第１週１日目
+駐車	ちゅうしゃ parking		第１週１日目
+四捨五入	ししゃごにゅう round to the nearest (e.g. decimal place)		第１週１日目
+捨てる	すてる to throw away TRANSITIVE		第１週１日目
+遊泳	ゆうえい swimming		第１週１日目
+遊ぶ	あそぶ to play INTRANSITIVE		第１週１日目
+水泳	すいえい swimming		第１週１日目
+泳ぐ	およぐ to swim INTRANSITIVE		第１週１日目
+喫茶店	きっさてん a coffee shop		第１週２日目
+喫煙所	きつえんじょ a smoking area		第１週２日目
+非〜	ひ〜 non-/anti-/dis-		第１週２日目
+非常口	ひじょうぐち an emergency exit		第１週２日目
+非常に	ひじょうに extremely		第１週２日目
+御〜	ご〜／お〜 (honorific form)		第１週２日目
+御手洗い	おてあらい a toilet		第１週２日目
+御中	おんちゅう (written on letters addressed to an organization / rather than an individual within the organization)		第１週２日目
+日常	にちじょう usual / everyday		第１週２日目
+常識	じょうしき common sense		第１週２日目
+常に	つねに always		第１週２日目
+受験	じゅけん taking an examination		第１週２日目
+受ける	うける receive		第１週２日目
+付近	ふきん vicinity		第１週２日目
+〜付き	〜つき attached / with		第１週２日目
+受付	うけつけ a reception		第１週２日目
+日付	ひづけ date		第１週２日目
+案内	あんない information		第１週２日目
+案	あん suggestion / proposal / plan		第１週２日目
+以内	いない within		第１週２日目
+社内	しゃない within the company		第１週２日目
+~内	〜ない inside / within		第１週２日目
+内	うち the inside		第１週２日目
+会議室	かいぎしつ a meeting room		第１週２日目
+不思議な	ふしぎな wonderful / strange		第１週２日目
+議論	ぎろん argument / discussion / debate		第１週２日目
+議員	ぎいん an assembly member		第１週２日目
+文化	ぶんか culture		第１週２日目
+化学	かがく chemistry		第１週２日目
+〜化	〜か -ization (changing something into something else)		第１週２日目
+化粧室	けしょうしつ a powder room / a toilet		第１週２日目
+階段	かいだん stairs		第１週２日目
+〜階	〜かい the ... floor		第１週２日目
+段階	だんかい level		第１週２日目
+段	だん a step		第１週２日目
+手段	しゅだん a means / way		第１週２日目
+一段と	いちだんと even more		第１週２日目
+石段	いしだん a stone step		第１週２日目
+営業	えいぎょう business		第１週３日目
+放送	ほうそう a broadcast		第１週３日目
+開放	かいほう opening		第１週３日目
+開放厳禁	かいほうげんきん don't leave ... open (strictly prohibited)		第１週３日目
+放す	はなす let go		第１週３日目
+押す	おす push		第１週３日目
+押し入れ	おしいれ a closet		第１週３日目
+押さえる	おさえる hold down		第１週３日目
+準備	じゅんび preparation		第１週３日目
+水準	すいじゅん a standard		第１週３日目
+準急	じゅんきゅう a semi-express train		第１週３日目
+準決勝	じゅんけっしょう semifinals		第１週３日目
+備品	びひん an equipment		第１週３日目
+備える	そなえる prepare		第１週３日目
+備え付け（の）	そなえつけ（の） furnished with / built-in		第１週３日目
+定員	ていいん capacity / allowed number of people		第１週３日目
+定休日	ていきゅうび set / regular holiday		第１週３日目
+定食	ていしょく a set meal		第１週３日目
+定規	じょうぎ a ruler (for measuring)		第１週３日目
+流行	りゅうこう fashion		第１週３日目
+流れる	ながれる flow		第１週３日目
+流す	ながす let flow (water, etc.)		第１週３日目
+清書	せいしょ a clean copy		第１週３日目
+清流	せいりゅう a clear stream		第１週３日目
+清い	きよい clean / pure		第１週３日目
+清い流れ	きよいながれ a clear stream		第１週３日目
+清掃	せいそう cleaning		第１週３日目
+掃く	はく sweep		第１週３日目
+閉会	へいかい closing of a meeting		第１週３日目
+閉店	へいてん closing of a store		第１週３日目
+閉まる	しまる shut / close		第１週３日目
+閉める	しめる shut / close ...		第１週３日目
+（口、目、本を）閉じる	とじる shut / close		第１週３日目
+点	てん a point		第１週３日目
+〜点	〜てん ...points		第１週３日目
+欠点	けってん a shortcoming		第１週３日目
+点検	てんけん a check / an inspection		第１週３日目
+検問	けんもん an inspection		第１週３日目
+地下鉄	ちかてつ the subway		第１週４日目
+同窓会	どうそうかい a school reunion		第１週４日目
+窓	まど window		第１週４日目
+窓口	まどぐち a (service) window		第１週４日目
+切符	きっぷ a ticket		第１週４日目
+清算	せいさん a (fare) adjustment		第１週４日目
+精神	せいしん spirit / mind		第１週４日目
+計算	けいさん calculation		第１週４日目
+引き算	ひきざん subtraction		第１週４日目
+足し算	たしざん addition		第１週４日目
+改正	かいせい an amendment		第１週４日目
+改める	あらためる change / check		第１週４日目
+改札口	かいさつぐち a ticket gate		第１週４日目
+１万円札	１まんえんさつ a 10,000 yen note		第１週４日目
+札	ふだ a card		第１週４日目
+下線	かせん an underline		第１週４日目
+線路	せんろ a railway track		第１週４日目
+新幹線	しんかんせん a bullet train		第１週４日目
+時刻	じこく time		第１週４日目
+刻む	きざむ engrave		第１週４日目
+番号	ばんごう number		第１週４日目
+〜番線	〜ばんせん line (platform) number ...		第１週４日目
+符号	ふごう a symbol / sign		第１週４日目
+〜号車	〜ごうしゃ carriage number		第１週４日目
+信号	しんごう a signal		第１週４日目
+快速	かいそく high speed		第１週４日目
+快い	こころよい pleasant		第１週４日目
+時速	じそく speed (per hour)		第１週４日目
+早速	さっそく at once		第１週４日目
+速い	はやい fast		第１週４日目
+道路	どうろ a road		第１週４日目
+通路	つうろ an aisle		第１週４日目
+空港	くうこう an airport		第１週５日目
+港	みなと a port		第１週５日目
+理由	りゆう a reason		第１週５日目
+不自由な	ふじゆうな disability / inconvenience		第１週５日目
+経由	けいゆ via		第１週５日目
+深夜	しんや midnight		第１週５日目
+深刻な	しんこくな serious		第１週５日目
+深い	ふかい deep		第１週５日目
+降車口	こうしゃぐち an exit (for getting off)		第１週５日目
+下降	かこう descent / fall		第１週５日目
+降りる	おりる get off		第１週５日目
+降る	ふる fall		第１週５日目
+両親	りょうしん parents		第１週５日目
+両方	りょうほう both		第１週５日目
+両〜	りょう〜 both ...		第１週５日目
+〜両目	〜りょうめ first / second ... car		第１週５日目
+両替	りょうがえ exchange of money		第１週５日目
+着替える	きがえる change one's clothes		第１週５日目
+為替	かわせ exchange / a money order		第１週５日目
+家賃	やちん rent		第１週５日目
+運賃	うんちん fare		第１週５日目
+分割	ぶんかつ a split / separation		第１週５日目
+割れる	われる crack / cleave		第１週５日目
+割引	わりびき a discount		第１週５日目
+時間割	じかんわり school timetable		第１週５日目
+増加	ぞうか an increase		第１週５日目
+増える	ふえる increase		第１週５日目
+割り増し	わりまし an extra (proportional increase)		第１週５日目
+優先	ゆうせん priority		第１週５日目
+優しい	やさしい kind		第１週５日目
+優れる	すぐれる excel		第１週５日目
+席	せき seat		第１週５日目
+出席	しゅっせき attendance		第１週５日目
+指定席	していせき a reserved seat		第１週５日目
+側面	そくめん the side / flank		第１週５日目
+両側	りょうがわ both sides		第１週５日目
+〜側	〜がわ the side of ...		第１週５日目
+座席	ざせき a seat		第１週５日目
+銀行口座	ぎんこうこうざ a bank account		第１週５日目
+寄付	きふ a donation		第１週５日目
+取り寄せる	とりよせる order ...		第１週５日目
+立ち寄る	たちよる drop in		第１週５日目
+年寄り	としより an old person		第１週５日目
+郵便	ゆうびん mail (service)		第１週６日目
+郵送	ゆうそう sending by post		第１週６日目
+郵便局	ゆうびんきょく a post office		第１週６日目
+薬局	やっきょく a drugstore		第１週６日目
+放送局	ほうそうきょく a broadcasting station		第１週６日目
+貯金	ちょきん savings		第１週６日目
+包帯	ほうたい a bandage		第１週６日目
+包む	つつむ wrap		第１週６日目
+小包	こづつみ a parcel		第１週６日目
+発達	はったつ development		第１週６日目
+速達	そくたつ a special delivery		第１週６日目
+友達	ともだち a friend		第１週６日目
+国際	こくさい international		第１週６日目
+〜の際	〜のさい at the time of ...		第１週６日目
+実際に	じっさいに actually		第１週６日目
+初診	しょしん the first medical consultation		第１週６日目
+初めて	はじめて for the first time		第１週６日目
+初恋	はつこい one's first love		第１週６日目
+初雪	はつゆき the first snow of the season		第１週６日目
+再診	さいしん a follow-up medical consultation		第１週６日目
+再生	さいせい regeneration / recycling		第１週６日目
+再来年	さらいねん the year after next		第１週６日目
+再び	ふたたび again		第１週６日目
+診療	しんりょう medical examination and treatment		第１週６日目
+治療	ちりょう (medical) treatment		第１週６日目
+医療	いりょう medical treatment / service		第１週６日目
+科学	かがく science		第１週６日目
+外科	げか a surgery department		第１週６日目
+内科	ないか internal medicine department		第１週６日目
+産婦人科	さんふじんか obstetrics and gynecology department		第１週６日目
+主婦	しゅふ a housewife		第１週６日目
+婦人	ふじん a woman		第１週６日目
+皮肉な	ひにくな irony / sarcasm		第１週６日目
+皮	かわ skin / peel / bark		第１週６日目
+皮膚	ひふ the skin		第１週６日目
+救急	きゅうきゅう first aid		第１週６日目
+救う	すくう save		第１週６日目
+看板	かんばん a signboard		第１週７日目
+看病	かんびょう nursing		第１週７日目
+看護師	かんごし a nurse		第１週７日目
+黒板	こくばん a blackboard		第１週７日目
+案内板	あんないばん a notice board		第１週７日目
+板	いた a board		第１週７日目
+羽毛	うもう feathering / down		第１週７日目
+羽	はね a feather		第１週７日目
+羽根	はね a shuttlecock		第１週７日目
+成分	せいぶん an ingredient / a constituent		第１週７日目
+成人式	せいじんしき a coming-of-age ceremony		第１週７日目
+第〜	だい〜 number ...		第１週７日目
+総合病院	そうごうびょういん a general hospital		第１週７日目
+総計	そうけい the total		第１週７日目
+普通	ふつう ordinary		第２週１日目
+普段の	ふだんの usually		第２週１日目
+回数券	かいすうけん a (book of) commuter ticket(s)		第２週１日目
+乗車券	じょうしゃけん a (boarding) ticket		第２週１日目
+旅券	りょけん a passport		第２週１日目
+発券	はっけん the issue of a ticket		第２週１日目
+数字	すうじ number		第２週１日目
+数学	すうがく mathematics		第２週１日目
+点数	てんすう score / points		第２週１日目
+数を数える	かずをかぞえる count numbers		第２週１日目
+飛行機	ひこうき an airplane		第２週１日目
+交通機関	こうつうきかん a means of transportation		第２週１日目
+自動券売機	じどうけんばいき an automatic ticket machine		第２週１日目
+危機	きき a crisis		第２週１日目
+復習	ふくしゅう a review		第２週１日目
+往復	おうふく a round trip		第２週１日目
+回復	かいふく recovery / recuperation		第２週１日目
+破片	はへん a fragment		第２週１日目
+片道切符	かたみちきっぷ a one-way ticket		第２週１日目
+片付ける	かたづける tidy up		第２週１日目
+片〜	かた〜 one side		第２週１日目
+〜枚	〜まい counter for flat objects		第２週１日目
+枚数	まいすう number of (flat objects, e.g. tickets)		第２週１日目
+期間	きかん a period of time		第２週１日目
+定期	ていき a fixed period		第２週１日目
+定期券	ていきけん a commuter pass		第２週１日目
+販売	はんばい selling		第２週１日目
+自動販売機	じどうはんばいき a vending machine		第２週１日目
+指	ゆび a finger		第２週１日目
+指す	さす point		第２週１日目
+調整	ちょうせい an adjustment		第２週１日目
+調子	ちょうし condition		第２週１日目
+調べる	しらべる look up something / investigate		第２週１日目
+整理券	せいりけん numbered ticket (issued at cinemas, etc. indicate the order in which people may enter)		第２週１日目
+整備	せいび maintenance / overhaul		第２週１日目
+整う	ととのう be tidy		第２週１日目
+表	ひょう table (in written documents)		第２週１日目
+時刻表	じこくひょう a timetable		第２週１日目
+発表	はっぴょう an announcement		第２週１日目
+表	おもて surface / face		第２週１日目
+表す	あらわす show / express		第２週１日目
+表示	ひょうじ indication / expression		第２週１日目
+指示	しじ an instruction		第２週１日目
+掲示	けいじ a notice		第２週１日目
+示す	しめす show / point out		第２週１日目
+現金	げんきん cash		第２週２日目
+表現	ひょうげん an expression		第２週２日目
+現れる	あらわれる appear		第２週２日目
+支店	してん a branch shop / office		第２週２日目
+支持	しじ support		第２週２日目
+支える	ささえる support		第２週２日目
+払う	はらう pay / sweep away		第２週２日目
+支払う	しはらう pay		第２週２日目
+支払機	しはらいき a machine for dispensing cash		第２週２日目
+預金	よきん a deposit		第２週２日目
+預ける	あずける entrust		第２週２日目
+預かる	あずかる keep / take charge of		第２週２日目
+払い戻し	はらいもどし a refund		第２週２日目
+戻る	もどる return		第２週２日目
+残高照会	ざんだかしょうかい an account balance inquiry		第２週２日目
+残る	のこる remain		第２週２日目
+残す	のこす leave / leave behind		第２週２日目
+照明	しょうめい illumination / light		第２週２日目
+対照的	たいしょうてき being contrastive		第２週２日目
+照らす	てらす light up		第２週２日目
+硬貨	こうか a coin		第２週２日目
+硬い	かたい hard		第２週２日目
+貨物	かもつ freight		第２週２日目
+通貨	つうか currency		第２週２日目
+確定	かくてい determination		第２週２日目
+明確な	めいかくな clear		第２週２日目
+確かな	たしかな certain		第２週２日目
+確かめる	たしかめる confirm / verify		第２週２日目
+確認	かくにん a confirmation		第２週２日目
+認める	みとめる admit / approve		第２週２日目
+違法	いほう illegal		第２週２日目
+違い	ちがい a difference		第２週２日目
+間違える	まちがえる make a mistake		第２週２日目
+間違い	まちがい a mistake		第２週２日目
+取材	しゅざい collection of data		第２週２日目
+取る	とる take		第２週２日目
+取り消し	とりけし a cancellation		第２週２日目
+書き取り	かきとり a dictation		第２週２日目
+聞き取り	ききとり listening ability		第２週２日目
+消去	しょうきょ elimination		第２週２日目
+消える	きえる be extinguished / disappear		第２週２日目
+消す	けす extinguish		第２週２日目
+消しゴム	けしごむ an eraser		第２週２日目
+温度	おんど temperature		第２週３日目
+体温計	たいおんけい a thermometer		第２週３日目
+温室	おんしつ a greenhouse		第２週３日目
+暖かい	あたたかい warm		第２週３日目
+冷静な	れいせいな  calm		第２週３日目
+冷たい	つめたい cold		第２週３日目
+冷える	ひえる become cold		第２週３日目
+冷やす	ひやす cool		第２週３日目
+冷める	さめる cool down		第２週３日目
+冷ます	さます cool something		第２週３日目
+緑茶	りょくちゃ green tea		第２週３日目
+新緑	しんりょく fresh greenery		第２週３日目
+緑（いろ）	みどり（いろ） green		第２週３日目
+紅茶	こうちゃ tea		第２週３日目
+口紅	くちべに lipstick		第２週３日目
+水玉	みずたま a drop of water		第２週３日目
+玉	たま a ball / sphere		第２週３日目
+十円玉	じゅうえんだま a 10-yen coin		第２週３日目
+返事	へんじ a reply		第２週３日目
+返却	へんきゃく returning (something)		第２週３日目
+返金	へんきん a refund		第２週３日目
+返す	かえす return (something)		第２週３日目
+団体	だんたい a group / organization		第２週３日目
+集団	しゅうだん a group		第２週３日目
+団地	だんち a large housing / apartment complex		第２週３日目
+布団	ふとん futon (Japanese mattress)		第２週３日目
+一般	いっぱん the general		第２週３日目
+全般	ぜんぱん the whole		第２週３日目
+幼児	ようじ baby		第２週３日目
+幼い	おさない very young / childish		第２週３日目
+小児科	しょうにか pediatrics department		第２週３日目
+児童	じどう children / juvenile		第２週３日目
+〜歳	〜さい ...years old		第２週３日目
+二十歳	にじゅっさい はたち 20 years old		第２週３日目
+未定	みてい undecided / indefinite		第２週３日目
+未来	みらい future		第２週３日目
+未知	みち unknown		第２週３日目
+未〜	み〜 not yet		第２週３日目
+未満	みまん less than		第２週３日目
+満員	まんいん full (of people)		第２週３日目
+満足	まんぞく satisfaction		第２週３日目
+満ちる	みちる be filled with		第２週３日目
+老人	ろうじん an old person		第２週３日目
+年老いた	としおいた aged		第２週３日目
+設定		せってい setting	第２週４日目
+設計		せっけい design / plan	第２週４日目
+設備		せつび equipment	第２週４日目
+換気		かんき ventilation	第２週４日目
+運転切換		うんてんきりかえ change of mode of operation	第２週４日目
+乗り換え		のりかえ changing trains	第２週４日目
+風向		ふうこう wind direction	第２週４日目
+風の向き		かぜのむき wind direction	第２週４日目
+向かい		むかい the opposite side	第２週４日目
+向こう		むこう over there / beyond	第２週４日目
+停止		ていし stopping of	第２週４日目
+停電		ていでん electricity blackout	第２週４日目
+停車		ていしゃ stop a vehicle	第２週４日目
+暖房		だんぼう heating	第２週４日目
+温暖な		おんだんな  temperate	第２週４日目
+暖かい		あたたかい warm	第２週４日目
+除湿		じょしつ dehumidification	第２週４日目
+掃除		そうじ cleaning	第２週４日目
+除く		のぞく remove / exclude	第２週４日目
+湿度		しつど humidity	第２週４日目
+湿気		しっけ humidity / moisture	第２週４日目
+湿る		しめる become damp / moist	第２週４日目
+標準		ひょうじゅん a standard	第２週４日目
+目標		もくひょう an aim / objective	第２週４日目
+標本		ひょうほん a specimen / sample	第２週４日目
+倍		ばい double	第２週４日目
+〜倍		〜ばい times (quantity - e.g. two times as many)	第２週４日目
+〜巻		〜かん volume...(used for books with several volumes)	第２週４日目
+巻く		まく wind / roll up	第２週４日目
+巻き戻し		まきもどし rewinding	第２週４日目
+録画		ろくが recording (video)	第２週４日目
+録音		ろくおん recording (sound)	第２週４日目
+音量		おんりょう sound volume	第２週４日目
+風量		ふうりょう air strength	第２週４日目
+分量		ぶんりょう quantity	第２週４日目
+数量		すうりょう amount	第２週４日目
+量る		はかる measure	第２週４日目
+予定		よてい a plan / schedule	第２週４日目
+予習		よしゅう preparation (of lessons)	第２週４日目
+予備		よび a reserve / spare	第２週４日目
+予算		よさん budget / estimate	第２週４日目
+予約		よやく an appointment / reservation	第２週４日目
+約〜		やく〜 approximately	第２週４日目
+約束		やくそく a promise / appointment	第２週４日目
+地帯		ちたい a region / area	第２週５日目
+温帯		おんたい Temperate Zone	第２週５日目
+携帯電話		けいたいでんわ a cell phone / mobile phone	第２週５日目
+帯		おび a belt / sash	第２週５日目
+保温		ほおん a retention of warmth	第２週５日目
+保険		ほけん insurance	第２週５日目
+保湿		ほしつ retention of moisture	第２週５日目
+保つ		たもつ keep / maintain	第２週５日目
+保留		ほりゅう a reservation / suspension	第２週５日目
+停留所		ていりゅうじょ a (bus) stop / station	第２週５日目
+留学		りゅうがく studying abroad	第２週５日目
+書留		かきとめ registration (registered mail)	第２週５日目
+保守的な		ほしゅてきな conservative	第２週５日目
+守る		まもる protect	第２週５日目
+留守		るす absence (from home)	第２週５日目
+お守り		おまもり a (good luck) charm	第２週５日目
+伝言		でんごん a message	第２週５日目
+手伝う		てつだう help	第２週５日目
+伝える		つたえる convey / communicate	第２週５日目
+返済		へんさい repayment	第２週５日目
+済む		すむ be finished / over	第２週５日目
+〜済み		〜ずみ completed	第２週５日目
+用件		ようけん a business / matter	第２週５日目
+事件		じけん an incident / crime	第２週５日目
+件名		けんめい subject	第２週５日目
+通信	つうしん correspondence		第２週６日目
+自信	じしん confidence		第２週６日目
+信じる	しんじる to believe TRANSITIVE		第２週６日目
+歴史	れきし history		第２週６日目
+受信箱	じゅしんばこ inbox		第２週６日目
+ごみ箱	ごみばこ a recycle bin		第２週６日目
+送信箱	そうしんばこ outbox		第２週６日目
+規定	きてい regulation		第２週６日目
+変換	へんかん conversion		第２週６日目
+変わる	かわる to change INTRANSITIVE		第２週６日目
+大変な	たいへんな very / serious		第２週６日目
+変える	かえる to change (something) TRANSITIVE		第２週６日目
+選択	せんたく a choice		第２週６日目
+選手	せんしゅ a player / an athelete		第２週６日目
+選考	せんこうa selection		第２週６日目
+選ぶ	えらぶ to choose TRANSITIVE		第２週６日目
+決定	けってい a decision		第２週６日目
+決める	きめる to decide (something) TRANSITIVE		第２週６日目
+決まる	きまる to be decided INTRANSITIVE		第２週６日目
+可能な	かのうな possible		第２週６日目
+中央	ちゅうおう center		第２週６日目
+片道　⇔　往復	かたみち　⇔　おうふく one-way (trip) ⇔ round-trip		第２週７日目
+暖房　⇔　冷房	だんぼう　⇔　れいぼう heating ⇔ cooling / air conditioning		第２週７日目
+温水　⇔　冷水	おんすい　⇔　れいすい warm water ⇔ cold water		第２週７日目
+老人　⇔　若者	ろうじん　⇔　わかもの old person ⇔ young person		第２週７日目
+年老いた　⇔　若い	としおいた　⇔　わかいaged ⇔ young		第２週７日目
+反対　⇔　賛成	はんたい　⇔　さんせい opposition ⇔ approval		第２週７日目
+捨てる　⇔　拾う	すてる　⇔　ひろう to throw away TRANSITIVE ⇔ to pick up TRANSITIVE		第２週７日目
+鋭い　⇔　鈍い	するどい　⇔　にぶい sharp ⇔ blunt / dull		第２週７日目
+肯定　⇔　否定	こうてい　⇔　ひてい affirmation ⇔ negation		第２週７日目
+浮く　⇔　沈む	うく　⇔　しずむ to float INTRANSITIVE ⇔ to sink INTRANSITIVE		第２週７日目
+浮かれている　⇔　沈んでいる	うかれている　⇔　しずんでいる to be happily excited INTRANSITIVE ⇔ to feel depressed INTRANSITIVE		第２週７日目
+様子	ようす an appearance / situation		第３週１日目
+～様	～さま a honorific added to people's names / particularly in letters		第３週１日目
+同様	どうよう the same		第３週１日目
+様々な	さまざまな various		第３週１日目
+重要な	じゅうような important		第３週１日目
+要点	ようてん an essential point		第３週１日目
+要約	ようやく a summary		第３週１日目
+要る	いる to need TRANSITIVE		第３週１日目
+利用	りよう use		第３週１日目
+便利な	べんりな convenient		第３週１日目
+金利	きんり interest (rate)		第３週１日目
+有利な	ゆうりな advantageous		第３週１日目
+明細	めいさい details		第３週１日目
+細かい	こまかい fine / small		第３週１日目
+細い	ほそい fine / thin		第３週１日目
+心細い	こころぼそい lonely / helpless		第３週１日目
+在中	ざいちゅう containing		第３週１日目
+在学	ざいがく attending school		第３週１日目
+現在	げんざい the present (time)		第３週１日目
+不在	ふざい absence		第３週１日目
+客席	きゃくせき a seat (in an auditorium)		第３週１日目
+乗客	じょうきゃく a passenger		第３週１日目
+お客様	おきゃくさま customer (honorific form)		第３週１日目
+額　（音読み）	がく a frame		第３週１日目
+金額	きんがく an amount / sum (of money)		第３週１日目
+額　「訓読み」	ひたい forehead		第３週１日目
+込む	こむ to be congested / crowded INTRANSITIVE		第３週１日目
+込める	こめる  1: to load (a gun, etc.); to charge; 2: to put into (e.g. emotion, effort); TRANSITIVE 3: to include (e.g. tax in a sales price);  4: () to hang over; to shroud; to enshroud; to envelop; to screen		第３週１日目
+払い込む	はらいこむ to pay in TRANSITIVE		第３週１日目
+申し込む	もうしこむ to apply TRANSITIVE		第３週１日目
+飛び込む	とびこむ to dive / jump into		第３週１日目
+思い込む	おもいこむ to imagine / assume		第３週１日目
+領収書	りょうしゅうしょ a receipt		第３週１日目
+～領	～りょう territory		第３週１日目
+領事館	りょうじかん a consulate		第３週１日目
+大統領	だいとうりょう a president		第３週１日目
+収入	しゅうにゅう income		第３週１日目
+収集	しゅうしゅう a collection / gathering		第３週１日目
+回収	かいしゅう a collection / recovery		第３週１日目
+吸収	きゅうしゅう absorption		第３週１日目
+収める	おさめる to pay / deliver TRANSITIVE		第３週１日目
+機械	きかい a machine		第３週１日目
+器械体操	きかいたいそう gymnastics (using equipment)		第３週１日目
+曲	きょく a piece of music		第３週１日目
+曲線	きょくせん a curved line		第３週１日目
+折り曲げる	おりまげる to bend / twist TRANSITIVE		第３週１日目
+曲がる	まがる to bend / turn a corner INTRANSITIVE		第３週１日目
+収まる	おさまる 1: to be in one's place; to be installed; to settle into; 2: to be delivered; to be obtained; to be paid; INTRANSITIVE 3: to be settled; to be sorted out; 4: to lessen (e.g. of storms, pain); to calm down; 5: to be fit tightly into (e.g. a frame); to be sheathed (in a scabbard)		第３週１日目
+汚染	おせん pollution		第３週１日目
+汚い	きたない dirty		第３週１日目
+汚れる	よごれる to become dirty INTRANSITIVE		第３週１日目
+汚す	よごす to make dirty / pollute TRANSITIVE		第３週１日目
+殿様	とのさま a feudal lord		第３週１日目
+～殿	～どの Mr. / Mrs. / Esquire		第３週１日目
+関連	かんれん a relation(ship)		第３週２日目
+連続	れんぞく a series		第３週２日目
+連休	れんきゅう consecutive holidays		第３週２日目
+連れる	つれる to accompany		第３週２日目
+連絡	れんらく a contact / connection		第３週２日目
+入荷	にゅうか a receipt (of goods)		第３週２日目
+出荷	しゅっか a shipment		第３週２日目
+荷物	にもつ luggage		第３週２日目
+届ける	とどける to deliver TRANSITIVE		第３週２日目
+届く	とどく to arrive (mail) INTRANSITIVE		第３週２日目
+届け出	とどけで a report / registration / notification		第３週２日目
+参考書	さんこうしょ a reference book		第３週２日目
+持参	じさん bringing something with one		第３週２日目
+参る	まいる to go / come INTRANSITIVE		第３週２日目
+お参り	おまいり visting a shrine		第３週２日目
+衣類	いるい clothing / garments		第３週２日目
+衣料品	いりょうひん clothing items		第３週２日目
+衣服	いふく clothes / dress		第３週２日目
+衣食住	いしょくじゅう food, clothing, and shelter		第３週２日目
+その他　2 versions	そのた　そのほか besides / the others		第３週２日目
+他人	たにん a stranger / other people		第３週２日目
+他方	たほう (on) the other hand		第３週２日目
+冷蔵	れいぞう refrigeration		第３週２日目
+貯蔵	ちょぞう storage		第３週２日目
+内蔵	ないぞう internalbuilt-in		第３週２日目
+冷凍	れいとう freezing (refigeration)		第３週２日目
+凍る	こおる to freeze INTRANSITIVE		第３週２日目
+凍える	こごえる to be numb with cold INTRANSITIVE		第３週２日目
+～等　2 versions	～とう　など et cetera		第３週２日目
+高等学校	こうとうがっこう a (senior) high school		第３週２日目
+上等	じょうとう good / superior		第３週２日目
+等しい	ひとしい equal		第３週２日目
+配達	はいたつ a delivery		第３週２日目
+気配	けはい a sign / indication		第３週２日目
+心配な	しんぱいな anxious / uneasy		第３週２日目
+配る	くばる to distribute TRANSITIVE		第３週２日目
+担当	たんとう taking charge of		第３週２日目
+分担	ぶんたん share (workload)		第３週２日目
+当日	とうじつ that day		第３週２日目
+弁当	べんとう a packed lunch		第３週２日目
+当～	とう～ this		第３週２日目
+当たる	あたる to be hit INTRANSITIVE		第３週２日目
+当てる	あてる  1: to hit; 2: to expose; 3: to apply (e.g. patch); 4: to allot; to call on someone (e.g. in class); 5: to guess (an answer); 6: to make a hit (e.g. in a lottery) TRANSITIVE		第３週２日目
+頂点	ちょうてん the apex / summit		第３週２日目
+頂上	ちょうじょう a summit / top		第３週２日目
+頂く	いただく to receive TRANSITIVE		第３週２日目
+商品	しょうひん goods		第３週３日目
+商店	しょうてん a shop		第３週３日目
+商業	しょうぎょう commerce		第３週３日目
+商売	しょうばい a business		第３週３日目
+～個	～こ counter for general objects		第３週３日目
+個人	こじん an individual (person)		第３週３日目
+個々	ここ individuals		第３週３日目
+個別	こべつ individual / separate		第３週３日目
+～相当	～そうとう corresponding to ...		第３週３日目
+首相	しゅしょう prime minister		第３週３日目
+外相	がいしょう foreign minister		第３週３日目
+相変わらず	あいかわらず still / as ever		第３週３日目
+相手	あいて an opponent / competitor		第３週３日目
+相撲	すもう sumo wrestling		第３週３日目
+交換	こうかん exchange		第３週３日目
+交通機関	こうつうきかん means of transportation		第３週３日目
+交際	こうさい association / company		第３週３日目
+交流	こうりゅう an exchange		第３週３日目
+有効な	ゆうこうな valid		第３週３日目
+効果	こうか an effect		第３週３日目
+効く	きく to be effective		第３週３日目
+効き目	ききめ an effect		第３週３日目
+期限	きげん a time limit		第３週３日目
+限度額	げんどがく a price limit		第３週３日目
+限界	げんかい a limit		第３週３日目
+～限り	～かぎり limit of ... / insofar ...		第３週３日目
+限る	かぎる  1: to restrict; to limit; to confine;  2: () to be restricted to; to be limited to; to be confined to TRANSITIVE		第３週３日目
+全国	ぜんこく the whole country		第３週３日目
+全～	ぜん～ the whole ...		第３週３日目
+完全な	かんぜんな perfect / complete		第３週３日目
+全く	まったく quite / completely		第３週３日目
+全て	すべて all / whole		第３週３日目
+共通	きょうつう common / mutual		第３週３日目
+～と共に	～とともに together with ...		第３週３日目
+忘年会	ぼうねんかい and end-of-year party		第３週３日目
+忘れる	わすれる to forget TRANSITIVE		第３週３日目
+忘れ物	わすれもの thing left behind (lost property)		第３週３日目
+経過	けいか a process / course		第３週３日目
+経験	けいけん experience		第３週３日目
+経済	けいざい economy		第３週３日目
+経理	けいり accounting		第３週３日目
+過去	かこ the past		第３週３日目
+通過	つうか passage / transit		第３週３日目
+過ぎる	すぎる to pass INTRANSITIVE		第３週３日目
+過ごす	すごす to spend (time) TRANSITIVE		第３週３日目
+責任	せきにん responsibility		第３週３日目
+責める	せめる to blame / accuse TRANSITIVE		第３週３日目
+担任	たんにん teacher in charge (e.g. homeroom teacher)		第３週３日目
+任せる	まかせる to entrust TRANSITIVE		第３週３日目
+任す	まかす to entrust; to leave to a person TRANSITIVE		第３週３日目
+負担	ふたん a burden		第３週３日目
+負ける	まける to lose INTRANSITIVE		第３週３日目
+負う	おう to bear TRANSITIVE		第３週３日目
+必要な	ひつような necessary		第３週４日目
+必死	ひっし desperate(ly)		第３週４日目
+必ず	かならず always / certainly		第３週４日目
+袋	ふくろ a bag		第３週４日目
+手袋	てぶくろ a glove		第３週４日目
+レジ袋	レジぶくろ a plastic bag (received at the checkout counter)		第３週４日目
+足袋	たび tabi (traditional Japanese socks worn with a kimono)		第３週４日目
+ゴミ集積所	ごみしゅうせきじょ a rubbish collection point		第３週４日目
+面積	めんせき a (surface) area		第３週４日目
+積もる	つもる to pile up INTRANSITIVE		第３週４日目
+積む	つむ to load TRANSITIVE		第３週４日目
+燃料	ねんりょう fuel		第３週４日目
+可燃	かねん burnable		第３週４日目
+不燃	ふねん nonflammable / incombustible		第３週４日目
+燃やせる	もやせるburnable		第３週４日目
+燃える	もえるto burn; to get fired up INTRANSITIVE		第３週４日目
+枝	えだ a branch		第３週４日目
+小枝	こえだ a twig / stick		第３週４日目
+紅葉	こうよう autumn leaves		第３週４日目
+紅葉　(irregular reading)	もみじ a maple		第３週４日目
+葉	は a leaf		第３週４日目
+落ち葉	おちば fallen leaves		第３週４日目
+言葉	ことば word / language		第３週４日目
+埋める	うめるto bury TRANSITIVE		第３週４日目
+埋め立てる	うめたてる reclaim (land) / fill in TRANSITIVE		第３週４日目
+埋まる	うまる to be buried INTRANSITIVE		第３週４日目
+製品	せいひん a product		第３週４日目
+～製	～せい made in / of ...		第３週４日目
+内容	ないよう contents / substance		第３週４日目
+容器	ようき a container		第３週４日目
+美容	びよう beauty treatment		第３週４日目
+食器	しょっき tableware		第３週４日目
+楽器	がっき a musical instrument		第３週４日目
+受話器	じゅわき telephone receiver		第３週４日目
+器	うつわ a container / caliber		第３週４日目
+包装	ほうそう wrapping		第３週４日目
+新装開店	しんそうかいてん renovated and open		第３週４日目
+服装	ふくそう the style of dress / costume		第３週４日目
+衣装	いしょう dress / costume		第３週４日目
+雑音	ざつおん a noise		第３週４日目
+雑用	ざつよう odd jobs		第３週４日目
+雑な	ざつな miscellaneous		第３週４日目
+雑貨	ざっか sundry goods		第３週４日目
+雑誌	ざっし a magazine		第３週４日目
+日誌	にっし a journal / diary		第３週４日目
+資源	しげん resource(s)		第３週４日目
+資料	しりょう material(s) / data		第３週４日目
+資金	しきん fund(s)		第３週４日目
+避難	ひなん an evacuation		第３週５日目
+困難な	こんなんな difficult		第３週５日目
+難しい	むずかしい difficult / delicate		第３週５日目
+～し難い	～しがたい difficult to ...		第３週５日目
+教訓	きょうくん a lesson		第３週５日目
+訓読み	くんよみ Japanese reading of Kanji		第３週５日目
+訓練	くんれん training / a drill		第３週５日目
+練習	れんしゅう a practice		第３週５日目
+地震	じしん an earthquake		第３週５日目
+震える	ふるえる to shake / tremble INTRANSITIVE		第３週５日目
+参加	さんか participation		第３週５日目
+加速	かそく acceleration		第３週５日目
+加える	くわえる to add to TRANSITIVE		第３週５日目
+加わる	くわわる to join / participate INTRANSITIVE		第３週５日目
+延期	えんき postponement		第３週５日目
+延長	えんちょう an extension		第３週５日目
+延びる	のびる to be extended / lengthen INTRANSITIVE		第３週５日目
+延ばす	のばす to extend / delay TRANSITIVE		第３週５日目
+断水	だんすい suspension of the water supply		第３週５日目
+断定	だんてい a decision / assertion		第３週５日目
+横断	おうだん crossing		第３週５日目
+断る	ことわるto refuse TRANSITIVE		第３週５日目
+水道管	すいどうかん water pipes		第３週５日目
+管理	かんり management / supervision / control		第３週５日目
+保管	ほかん custody / safekeeping		第３週５日目
+管	くだ a pipe		第３週５日目
+日記	にっき a diary / journal		第３週５日目
+記入	きにゅうenter / filling out		第３週５日目
+記号	きごう a mark / symbol		第３週５日目
+下記	かき the below / the following		第３週５日目
+記者	きしゃ reporter		第３週５日目
+記事	きじ an article		第３週５日目
+記す	しるす to write down TRANSITIVE		第３週５日目
+迷惑	めいわく a nuisance		第３週５日目
+迷信	めいしん a superstition		第３週５日目
+迷う	まよう to become lost INTRANSITIVE		第３週５日目
+迷子	まいご a lost child		第３週５日目
+協力	きょうりょく cooperation		第３週５日目
+協定	きょうてい an agreement		第３週５日目
+協会	きょうかい an association		第３週５日目
+願書	がんしょ a (written) application		第３週５日目
+願う	ねがう to wish / hope / desire TRANSITIVE		第３週５日目
+平成	へいせい current Japanese era		第３週５日目
+平日	へいじつ weekdays		第３週５日目
+平気な	へいきな calm / indifferent		第３週５日目
+平等	びょうどう equality		第３週５日目
+平らな	たいらな flat / even		第３週５日目
+平仮名	ひらがな Hiragana		第３週５日目
+結果	けっか result		第３週６日目
+結局	けっきょく after all		第３週６日目
+結ぶ	むすぶ to tie / connect / conclude TRANSITIVE		第３週６日目
+果実	かじつ a fruit		第３週６日目
+果物	くだもの a fruit		第３週６日目
+果たす	はたす to carry out / fulfill TRANSITIVE		第３週６日目
+開封	かいふう unsealing / opening a letter		第３週６日目
+封書	ふうしょ a sealed letter		第３週６日目
+同封	どうふう enclosing (with a letter)		第３週６日目
+方法	ほうほう a method / way		第３週６日目
+文法	ぶんぽう grammar		第３週６日目
+作法	さほう a manner		第３週６日目
+法人	ほうじん a corporate body		第３週６日目
+各～	かく～ each / every		第３週６日目
+各自	かくじ respective / each person		第３週６日目
+各地	かくち everywhere / many places		第３週６日目
+～各位	～かくい every one of you / whom it may concern		第３週６日目
+地位	ちい status		第３週６日目
+～位	～い ... place (used for ranking things)		第３週６日目
+位	くらい rank		第３週６日目
+異常な	いじょうな abnormal		第３週６日目
+同音異義語	どうおんいぎご a homonym		第３週６日目
+異変	いへん an accident / unusual thing		第３週６日目
+異なる	ことなる to differ INTRANSITIVE		第３週６日目
+移転	いてん a move / transfer		第３週６日目
+移動	いどう a move / transfer		第３週６日目
+移る	うつる to move / shift INTRANSITIVE		第３週６日目
+移す	うつす to move / shift (something) TRANSITIVE		第３週６日目
+事務	じむ office work		第３週６日目
+事務所	じむしょ an office		第３週６日目
+任務	にんむ a duty / task		第３週６日目
+務める	つとめる to work / serve TRANSITIVE		第３週６日目
+変更	へんこう a change / alteration		第３週６日目
+更新	こうしん a renewal / update		第３週６日目
+更衣室	こういしつ a change room		第３週６日目
+引っ越す	ひっこす to move house TRANSITIVE		第３週６日目
+乗り越す	のりこす to go past (the correct station) TRANSITIVE		第３週６日目
+お越しの際	おこしのさい when you come		第３週６日目
+越える	こえる 1: to cross over; to cross; to pass through; to pass over (out of); 2: to exceed INTRANSITIVE INTRANSITIVE		第３週６日目
+郊外	こうがい the suburbs		第３週６日目
+近郊	きんこう suburbsoutskirts		第３週６日目
+円周	えんしゅう circumference (of a circle)		第３週６日目
+周り	まわり around / neighborhood		第３週６日目
+畑	はたけ a (vegetable) field		第３週６日目
+花畑	はなばたけ a (flower) field		第３週６日目
+昨～	さく～ last ...		第３週７日目
+翌～	よく～ the following ...		第３週７日目
+～軒	～けん counter for buildings		第３週７日目
+中毒	ちゅうどく addiction / poisoning		第３週７日目
+消毒	しょうどく disinfection / sterilization		第３週７日目
+気の毒な	きのどくな pity (pitiful)		第３週７日目
+涙	なみだ tear(s)		第３週７日目
+笑う	わらう to laugh / smile INTRANSITIVE		第３週７日目
+笑顔	えがお a smile / smiling face		第３週７日目
+笑む	えむ to smile INTRANSITIVE		第３週７日目
+署名	しょめい a signature		第４週１日目
+部署	ぶしょ post / station		第４週１日目
+消防署	しょうぼうしょ a fire station		第４週１日目
+税務署	ぜいむしょ tax office		第４週１日目
+依頼	いらい request / commission		第４週１日目
+信頼	しんらい trust		第４週１日目
+頼む	たのむ to request		第４週１日目
+頼もしい	たのもしい reliable		第４週１日目
+頼る	たよる to depend upon INTRANSITIVE		第４週１日目
+頼りない	たよりない powerless / unreliable		第４週１日目
+都道府県	とどうふけん prefectures (and other administrative units)		第４週１日目
+京都府	きょうとふ Kyoto-fu		第４週１日目
+到着	とうちゃく arrival		第４週１日目
+希望	きぼう hope		第４週１日目
+失望	しつぼう loss of hope / despair		第４週１日目
+望遠鏡	ぼうえんきょう a telescope		第４週１日目
+望む	のぞむ to want / hope for TRANSITIVE		第４週１日目
+申請	しんせい an application		第４週１日目
+申す	もうす to say (humble form) TRANSITIVE		第４週１日目
+申し込み	もうしこみ application / proposal		第４週１日目
+申し上げる	もうしあげる to say (very humble form) TRANSITIVE		第４週１日目
+姓	せい family name		第４週１日目
+姓名	せいめい full name		第４週１日目
+年齢	ねんれい age		第４週１日目
+高齢	こうれい old age		第４週１日目
+男性	だんせい a man		第４週１日目
+女性	じょせい a woman		第４週１日目
+性別	せいべつ sex / gender		第４週１日目
+性質	せいしつ nature / disposition		第４週１日目
+安全性	あんぜんせい safety		第４週１日目
+可能性	かのうせい possibility		第４週１日目
+お宅	おたく a house / home (respectful form)		第４週１日目
+自宅	じたく one's house / home		第４週１日目
+住宅	じゅうたく housing		第４週１日目
+帰宅	きたく returning home		第４週１日目
+勤務	きんむ service / duty		第４週１日目
+出勤	しゅっきん attendance at work		第４週１日目
+通勤	つうきん commuting to work		第４週１日目
+勤める	つとめる to work / be employed TRANSITIVE		第４週１日目
+全部	ぜんぶ all / whole		第４週１日目
+部分	ぶぶん  part		第４週１日目
+部長	ぶちょう department head / a manager		第４週１日目
+学部	がくぶ a faculty		第４週１日目
+部屋	へや a room		第４週１日目
+結婚	けっこん a marriage		第４週２日目
+婚約	こんやく an engagement		第４週２日目
+未婚	みこん unmarried		第４週２日目
+新婚	しんこん newly wedded		第４週２日目
+招待	しょうたい an invitation		第４週２日目
+招く	まねく to invite TRANSITIVE		第４週２日目
+～状	～じょう a letter (e.g. of invitation)		第４週２日目
+現状	げんじょう an existing situation		第４週２日目
+状態	じょうたい a situation		第４週２日目
+年賀状	ねんがじょう a new year's card		第４週２日目
+欠席	けっせき absence		第４週２日目
+出欠	しゅっけつ attendance (or absence)		第４週２日目
+欠ける	かける 1: to be chipped; to be damaged; to be broken; 2: to be lacking; to be missing; 3: to be insufficient; to be short; to be deficient; to be negligent toward; 4: (of the moon) to wane; to go into eclipse INTRANSITIVE		第４週２日目
+喜ぶ	よろこぶ to be pleased INTRANSITIVE		第４週２日目
+喜んで	よろこんで gladly		第４週２日目
+政治	せいじ politics		第４週２日目
+自治会	じちかい self-governing association		第４週２日目
+自治体	じちたい self-governing body		第４週２日目
+治す	なおす to cure TRANSITIVE		第４週２日目
+治る	なおる 1: to be cured; to get well; to be healed; 2: to get mended; to be repaired; to be fixed INTRANSITIVE		第４週２日目
+委員	いいん committee member		第４週２日目
+委員会	いいんかい a committee		第４週２日目
+委任状	いにんじょう a power of attorney		第４週２日目
+祝日	しゅくじつ a holiday / festival day		第４週２日目
+祝う	いわう to celebrate / congratulate TRANSITIVE		第４週２日目
+お祝い	おいわい celebration / congratulation		第４週２日目
+舞台	ぶたい a stage		第４週２日目
+舞う	まう to dance / flutter		第４週２日目
+お見舞い	おみまい a (call of) inquiry		第４週２日目
+お礼	おれい thanks		第４週２日目
+失礼な	しつれいな rude		第４週２日目
+礼儀	れいぎ etiquette		第４週２日目
+多忙な	たぼうな busy (with many things)		第４週２日目
+忙しい	いそがしい busy		第４週２日目
+夫妻	ふさい husband and wife		第４週２日目
+妻	つま wife		第４週２日目
+主張	しゅちょう an assertion / claim		第４週２日目
+出張	しゅっちょう a business trip		第４週２日目
+頑張る	がんばる to try one's hardest / do one's best INTRANSITIVE		第４週２日目
+引っ張る	ひっぱる to pull TRANSITIVE		第４週２日目
+張る	はる to stretch / to tighten		第４週２日目
+奥様	おくさま a wife (respectful form)		第４週２日目
+奥	おく inner recesses		第４週２日目
+浅い	あさい shallow		第４週３日目
+浅草	あさくさ Asakusa - Place Name in Tokyo		第４週３日目
+浅ましい	あさましい shameful / sordid		第４週３日目
+～君	～くん an honorific appended to names of males younger than oneself		第４週３日目
+永久	えいきゅう  1: eternity; perpetuity; immortality; 2: Eikyuu era (1113.7.13-1118.4.3)		第４週３日目
+久しぶり	ひさしぶり long time no see		第４週３日目
+相互	そうご mutual / reciprocal		第４週３日目
+交互	こうご alternation		第４週３日目
+お互いに	おたがいに mutually		第４週３日目
+追加	ついか an addition / supplement		第４週３日目
+追う	おう to pursue TRANSITIVE		第４週３日目
+追い越す	おいこす to overtake TRANSITIVE		第４週３日目
+追い付く	おいつく to catch up INTRANSITIVE		第４週３日目
+追伸	ついしん postscript		第４週３日目
+伸びる	のびる to grow / stretch INTRANSITIVE		第４週３日目
+伸ばす	のばす to extend / stretch  TRANSITIVE		第４週３日目
+伸びをする	のびをする to stretch out		第４週３日目
+皆	みな all		第４週３日目
+皆さん	みなさん everyone		第４週３日目
+お歳暮	おせいぼ a year-end gift		第４週３日目
+暮らす	くらす to live / dwell		第４週３日目
+暮れ	くれ end of the year		第４週３日目
+夕暮れ	ゆうぐれ dusk		第４週３日目
+習慣	しゅうかん a custom / habit		第４週３日目
+慣れる	なれる to become accustomed to INTRANSITIVE		第４週３日目
+慣らす	ならす to accustom TRANSITIVE		第４週３日目
+生活	せいかつ life / livelihood		第４週３日目
+活用	かつよう practical use		第４週３日目
+活字	かつじ printing type		第４週３日目
+活発な	かっぱつな activity / vivacity (lively)		第４週３日目
+恋愛	れんあい love / romance		第４週３日目
+恋	こい love		第４週３日目
+恋人	こいびと a lover (boy / girlfried)		第４週３日目
+恋しい	こいしい homesick / lonely		第４週３日目
+健在	けんざい being in good health		第４週３日目
+健全な	けんぜんな sound / wholesome		第４週３日目
+健やかな	すこやかな sound / healthy		第４週３日目
+健康	けんこう health		第４週３日目
+健康保険証	けんこうほけんしょう a health insurance card		第４週３日目
+祈願	きがん a prayer		第４週３日目
+祈る	いのる to pray		第４週３日目
+祈り	いのり a prayer / grace		第４週３日目
+幸福	こうふく happiness		第４週４日目
+福祉	ふくし welfare		第４週４日目
+拝見	はいけん looking (humble form)		第４週４日目
+拝借	はいしゃく borrowing (humble form)		第４週４日目
+参拝者	さんぱいしゃ visitor (to a shrine)		第４週４日目
+拝む	おがむ to worship		第４週４日目
+打者	だしゃ a batter / hitter		第４週４日目
+打つ	うつ to strike / hit		第４週４日目
+打ち合わせ	うちあわせ arrangement in advance		第４週４日目
+伺う	うかがう to visit (humble form)		第４週４日目
+幸運な	こううんな lucky		第４週４日目
+不幸な	ふこうな unhappy / unfortunate		第４週４日目
+幸せな	しあわせな happy		第４週４日目
+幸い	さいわい good fortune / fortunately		第４週４日目
+失業	しつぎょう unemployment		第４週４日目
+失う	うしなう to lose		第４週４日目
+突然	とつぜん sudden		第４週４日目
+煙突	えんとつ a chimney		第４週４日目
+突き当り	つきあたり end of (e.g. end of the road)		第４週４日目
+突っ込む	つっこむ to thrust into / plunge		第４週４日目
+全然	ぜんぜん (not) at all		第４週４日目
+自然	しぜん nature / natural		第４週４日目
+当然	とうぜん of course		第４週４日目
+天然な	てんねんな natural / unartificial		第４週４日目
+諸～	しょ～ various		第４週４日目
+諸問題	しょもんだい various problems		第４週４日目
+諸般	しょはん variety / all sorts		第４週４日目
+事情	じじょう circumstance		第４週４日目
+友情	ゆうじょう a friendship		第４週４日目
+表情	ひょうじょう a facial expression		第４週４日目
+情け	なさけ sympathy / mercy		第４週４日目
+情けない	なさけない woeful / disgraceful		第４週４日目
+引退	いんたい retirement		第４週４日目
+退院	たいいん discharge from hospital		第４週４日目
+退学	たいがく withdrawal from course / school		第４週４日目
+退く	しりぞく to retreat / withdraw		第４週４日目
+職業	しょくぎょう an occupation / profession		第４週４日目
+職場	しょくば a workplace		第４週４日目
+退職	たいしょく retirement		第４週４日目
+職人	しょくにん an artisan		第４週４日目
+紹介	しょうかい introduction		第４週４日目
+介入	かいにゅう intervention		第４週４日目
+介護	かいご nursing care		第４週４日目
+一次試験	いちじしけん the first examination		第４週５日目
+次	つぎ the next		第４週５日目
+次第	しだい 1. as soon as 2. (depending on) the circumstances		第４週５日目
+文章	ぶんしょう a sentence / composition		第４週５日目
+章	しょう a chapter		第４週５日目
+対する	たいする toward / against		第４週５日目
+反対	はんたい opposition / the reverse		第４週５日目
+～対～	～たい～ ... versus ...		第４週５日目
+対照的な	たいしょうてきな contrasting		第４週５日目
+対	つい pair / couple		第４週５日目
+最初	さいしょ the first / beginning		第４週５日目
+最後	さいご the last / end		第４週５日目
+最近	さいきん recently		第４週５日目
+最も	もっとも most		第４週５日目
+適当な	てきとうな appropiate / reasonable		第４週５日目
+適切な	てきせつな appropiate / proper		第４週５日目
+適する	てきする to suit / be fit for		第４週５日目
+適度な	てきどな moderate		第４週５日目
+誤解	ごかい misunderstanding		第４週５日目
+誤り	あやまり a mistake		第４週５日目
+直線	ちょくせん a straight line		第４週５日目
+正直な	しょうじきな honest		第４週５日目
+直す	なおす to fix		第４週５日目
+直る	なおる 1: to be cured; to get well; to be healed; 2: to get mended; to be repaired; to be fixed INTRANSITIVE		第４週５日目
+素直な	すなおな obedient / submissive		第４週５日目
+直ちに	ただちに immediately		第４週５日目
+例	れい an example		第４週５日目
+例外	れいがい an exception		第４週５日目
+実例	じつれい an example / instance		第４週５日目
+例えば	たとえば for example		第４週５日目
+例える	たとえる to compare / liken		第４週５日目
+名詞	めいし a noun		第４週５日目
+動詞	どうし a verb		第４週５日目
+自動詞	じどうし an intransitive verb		第４週５日目
+他動詞	たどうし a transitive verb		第４週５日目
+形式	けいしき form / formality		第４週５日目
+形容詞	けいようし an adjective		第４週５日目
+図形	ずけい a diagram		第４週５日目
+人形	にんぎょう a doll / puppet		第４週５日目
+形	かたち shape / form		第４週５日目
+救助	きゅうじょ rescue / help		第４週５日目
+助詞	じょし a particle (preposition / postposition)		第４週５日目
+助手	じょしゅ an assistant		第４週５日目
+助かる	たすかる to be saved / be helpful		第４週５日目
+助ける	たすける to help		第４週５日目
+副詞	ふくし an adverb		第４週５日目
+副～	ふく～ vice / assistant		第４週５日目
+周囲	しゅうい perimeter / neighborhood		第４週５日目
+囲む	かこむ to surround		第４週５日目
+夢中	むちゅう be engrossed		第４週６日目
+夢	ゆめ a dream		第４週６日目
+専門	せんもん speciality		第４週６日目
+専用	せんよう exclusive use		第４週６日目
+専攻	せんこう a major / speciality		第４週６日目
+～史	～し history		第４週６日目
+区域	くいき an area / zone		第４週６日目
+地域	ちいき an area / region		第４週６日目
+祭日	さいじつ a holiday / festival day		第４週６日目
+～祭	～さい festival		第４週６日目
+お祭り	おまつり festival		第４週６日目
+検査	けんさ an inspection / test		第４週６日目
+調査	ちょうさ an investigation / inquiry		第４週６日目
+審査	しんさ examination / judgment		第４週６日目
+～戦	～せん a fight / tournament		第４週６日目
+大戦	たいせん a major war (e.g. First World War)		第４週６日目
+戦争	せんそう war		第４週６日目
+戦う	たたかう to fight		第４週６日目
+競争	きょうそう competition / contest		第４週６日目
+争う	あらそう to fight / dispute		第４週６日目
+将来	しょうらい future		第４週６日目
+将棋	しょうぎ Shogi (Japanese version of Chess)		第４週６日目
+歩道橋	ほどうきょう a footbridge		第４週６日目
+鉄橋	てっきょう a railroad bridge		第４週６日目
+橋	はし a bridge		第４週６日目
+架け橋	かけはし a bridge / go-between		第４週６日目
+憎い	にくい detestable		第４週６日目
+憎む	にくむ to detest		第４週６日目
+憎しみ	にくしみ hatred / enmity		第４週６日目
+憎らしい	にくらしい detestable		第４週６日目
+自殺	じさつ suicide		第４週６日目
+殺す	ころす to kill		第４週６日目
+悲観	ひかん pessimism		第４週６日目
+悲しい	かなしい sad		第４週６日目
+悲しむ	かなしむ to grieve / lament		第４週６日目
+恥	はじ shame / humiliation		第４週６日目
+恥ずかしい	はずかしい be ashamed / embarrassed		第４週６日目
+感じる	かんじる to feel		第４週６日目
+感情	かんじょう emotion		第４週６日目
+感心な	かんしんな admirable		第４週６日目
+感動	かんどう emotion / inspiration		第４週６日目
+地球	ちきゅう the earth		第４週６日目
+電球	でんきゅう a light bulb		第４週６日目
+野球	やきゅう baseball		第４週６日目
+球	たま a ball / sphere		第４週６日目
+平和	へいわ peace		第４週６日目
+和式	わしき Japanese style		第４週６日目
+愛	あい love		第４週６日目
+愛する	あいする to love		第４週６日目
+愛情	あいじょう love / affection		第４週６日目
+仲	なか relations / terms		第４週６日目
+仲間	なかま a friend / circle (of friends, etc)		第４週６日目
+改良	かいりょう improvement / reform		第４週６日目
+良い	よい good		第４週６日目
+腹痛	ふくつう stomachache		第４週７日目
+背中	せなか back (body part)		第４週７日目
+休息	きゅうそく rest		第４週７日目
+息	いき a breath		第４週７日目
+息子	むすこ a son		第４週７日目
+高血圧	こうけつあつ high blood pressure		第４週７日目
+血	ち blood		第４週７日目
+圧力	あつりょく pressure		第４週７日目
+心臓	しんぞう a heart		第４週７日目
+内臓	ないぞう internal organs		第４週７日目
+血液	けつえき blood		第４週７日目
+耳鼻科	じびか otorhinology		第４週７日目
+鼻	はな a nose		第４週７日目
+鼻水	はなみず nasal mucous		第４週７日目
+呼吸	こきゅう respiration		第４週７日目
+吸う	すう to breathe / inhale		第４週７日目
+睡眠	すいみん sleep		第４週７日目
+眠い	ねむい sleepy		第４週７日目
+眠る	ねむる to sleep		第４週７日目
+居眠り	いねむり doze		第４週７日目
+食欲	しょくよく appetite		第４週７日目
+欲張り	よくばり greed		第４週７日目
+欲しい	ほしい want		第４週７日目
+疲れる	つかれる to get tired / exhaust		第４週７日目
+胃	い stomach		第４週７日目
+胃腸	いちょう stomach and intestines		第４週７日目
+胸	むねa chest / breast		第４週７日目
+傾向	けいこう a trend / tendency		第５週１日目
+傾く	かたむく to tilt / incline INTRANSITIVE		第５週１日目
+傾ける	かたむける (make something) tilt / incline TRANSITIVE		第５週１日目
+横転	おうてん overturn		第５週１日目
+横断歩道	おうだんほどう a pedestrian crossing		第５週１日目
+横	よこ side		第５週１日目
+熱湯	ねっとう boiling water		第５週１日目
+湯	ゆ hot water		第５週１日目
+湯飲み	ゆのみ teacup		第５週１日目
+湯気	ゆげ steam		第５週１日目
+恐怖	きょうふ fear		第５週１日目
+恐ろしい	おそろしい fearful / terrible		第５週１日目
+恐れ	おそれ fear / risk		第５週１日目
+恐れ入ります	おそれいります I beg your pardon. / Excuse me.		第５週１日目
+恐れる	おそれる to fear / be afraid of TRANSITIVE		第５週１日目
+原料	げんりょう raw material		第５週１日目
+原産	げんさん origin / native		第５週１日目
+野原	のはら a field		第５週１日目
+原因	げんいん a cause		第５週１日目
+要因	よういん a factor		第５週１日目
+位置	いち a location		第５週１日目
+装置	そうち device		第５週１日目
+置く	おく to put		第５週１日目
+物置	ものおき a closet / storeroom		第５週１日目
+寝室	しんしつ a bedroom		第５週１日目
+寝坊	ねぼう a late riser / getting up late		第５週１日目
+寝る	ねる to sleep		第５週１日目
+昼寝	ひるね a nap		第５週１日目
+熱	ねつ fever / heat		第５週１日目
+熱心な	ねっしんな enthusiastic / zealous		第５週１日目
+熱中	ねっちゅう mania / passion / enthusiasm		第５週１日目
+熱い	あつい hot		第５週１日目
+燃焼	ねんしょう combustion		第５週１日目
+焼く	やく to roast / grill		第５週１日目
+焼ける	やける to be burnt / baked		第５週１日目
+接触	せっしょく contact		第５週１日目
+感触	かんしょく (the sense of) touch		第５週１日目
+触れる	ふれる to touch / mention		第５週１日目
+触る	さわる to touch		第５週１日目
+灯油	とうゆ kerosene		第５週１日目
+灯台	とうだい a lighthouse		第５週１日目
+蛍光灯	けいこうとう a fluorescent light		第５週１日目
+電灯	でんとう an electric light		第５週１日目
+石油	せきゆ oil (petroleum)		第５週１日目
+原油	げんゆ crude oil		第５週１日目
+油断	ゆだん negligence / inattention		第５週１日目
+油	あぶら oil		第５週１日目
+余分な	よぶんな excessive		第５週１日目
+余計な	よけいな excessive / needless		第５週１日目
+余裕	よゆう leeway (e.g. time to spare)		第５週１日目
+余る	あまる to be left over		第５週１日目
+羊毛	ようもう wool		第５週２日目
+毛	け fur / hair / wool		第５週２日目
+毛皮	けがわ fur		第５週２日目
+糸	いと a thread		第５週２日目
+毛糸	けいと woolen yarn		第５週２日目
+肌	はだ skin		第５週２日目
+肌着	はだぎ an undershirt		第５週２日目
+柔軟な	じゅうなんな flexible		第５週２日目
+柔道	じゅうどう Judo		第５週２日目
+柔らかい	やわらかい soft / tender		第５週２日目
+香水	こうすい perfume		第５週２日目
+無香料	むこうりょう no scent		第５週２日目
+香辛料	こうしんりょう spice		第５週２日目
+香り	かおり  a scent / smell		第５週２日目
+香る	かおる to smell sweet / be fragrant INTRANSITIVE		第５週２日目
+軟弱な	なんじゃくな weak		第５週２日目
+柔軟体操	じゅうなんたいそう warm-up exercises		第５週２日目
+軟らかい	やわらかい soft		第５週２日目
+溶岩	ようがん lava		第５週２日目
+溶ける	とける to dissolve / melt / thaw INTRANSITIVE		第５週２日目
+溶かす	とかす to dissolve / melt  TRANSITIVE		第５週２日目
+洗濯	せんたく washing		第５週２日目
+洗濯機	せんたくき / せんたっき a washing machine		第５週２日目
+直接	ちょくせつ direct		第５週２日目
+間接	かんせつ indirect		第５週２日目
+面接	めんせつ an interview		第５週２日目
+接近	せっきん proximity		第５週２日目
+塗る	ぬる to paint / spread		第５週２日目
+一緒	いっしょ together		第５週２日目
+泥	どろ mud		第５週２日目
+泥棒	どろぼう a thief		第５週２日目
+卵黄	らんおう an egg yolk		第５週２日目
+卵の黄身	たまごのきみ an egg yolk		第５週２日目
+黄色	きいろ yellow color		第５週２日目
+用途	ようと a use		第５週３日目
+途中	とちゅう on the way / part way		第５週３日目
+中途	ちゅうと midway / unfinished		第５週３日目
+途端	とたん just as (... something happened)		第５週３日目
+道具	どうぐ a tool		第５週３日目
+具合	ぐあい condtion		第５週３日目
+家具	かぐ furniture		第５週３日目
+雨具	あまぐ rain gear		第５週３日目
+起床	きしょう getting up		第５週３日目
+床	ゆか floor		第５週３日目
+床屋	とこや barber shop		第５週３日目
+床の間	とこのま alcove (a place for traditional pictures and ornaments)		第５週３日目
+壁	かべ wall		第５週３日目
+乾電池	かんでんち a dry cell battery		第５週３日目
+乾く	かわく to dry INTRANSITIVE		第５週３日目
+乾かす	かわかす to dry something TRANSITIVE		第５週３日目
+毛布	もうふ blanket		第５週３日目
+分布	ぶんぷ distribution		第５週３日目
+座布団	ざぶとん Zabuton (square Japanese floor cushion)		第５週３日目
+布	ぬの a cloth		第５週３日目
+電柱	でんちゅう a telegraph pole		第５週３日目
+柱	はしら a pillar / post		第５週３日目
+防虫剤	ぼうちゅうざい insect repellant		第５週３日目
+殺虫剤	さっちゅうざい insecticide		第５週３日目
+虫	むし insect		第５週３日目
+虫歯	むしば a decayed tooth		第５週３日目
+歯科	しか dentistry		第５週３日目
+歯周病	ししゅうびょう periodontal disease		第５週３日目
+歯医者	はいしゃ dentist		第５週３日目
+歯車	はぐるま a toothed wheel / a cog-wheel / gear		第５週３日目
+予防	よぼう prevention / precaution		第５週３日目
+消防	しょうぼう fire fighting		第５週３日目
+防止	ぼうし prevention		第５週３日目
+防ぐ	ふせぐ to prevent		第５週３日目
+磨く	みがく to polish / brush		第５週３日目
+歯磨き	はみがき tooth brushing		第５週３日目
+抜群	ばつぐん outstanding / unrivaled		第５週３日目
+抜ける	ぬける to fall out / be missing INTRANSITIVE		第５週３日目
+抜く	ぬく to remove / extract / omit TRANSITIVE		第５週３日目
+追い抜く	おいぬく to leave behind		第５週３日目
+悩む	なやむ to worry (about something)		第５週３日目
+悩み	なやみ a worry / distress		第５週３日目
+髪	かみ hair		第５週３日目
+髪の毛	かみのけ a hair		第５週３日目
+白髪	しらが white / gray hair		第５週３日目
+名刺	めいし a name card		第５週４日目
+刺激	しげき a stimulus		第５週４日目
+刺す	さす to stab (something) TRANSITIVE		第５週４日目
+刺さる	ささる to be pierced INTRANSITIVE		第５週４日目
+肩	かた shoulder		第５週４日目
+肩書き	かたがき a title		第５週４日目
+腰痛	ようつう (lower) backache		第５週４日目
+腰	こし waist / hip		第５週４日目
+腰掛ける	こしかける to sit		第５週４日目
+腰掛け	こしかけ a chair / seat		第５週４日目
+関節	かんせつ a joint		第５週４日目
+調節	ちょうせつ an adjustment		第５週４日目
+節約	せつやく thrift		第５週４日目
+節	ふし a knot (in wood) / joint		第５週４日目
+神話	しんわ a myth		第５週４日目
+神道	しんとう Shintoism		第５週４日目
+神経	しんけい nerve		第５週４日目
+神社	じんじゃ a shrine		第５週４日目
+神様	かみさま a god		第５週４日目
+頭痛	ずつう a headache		第５週４日目
+苦痛	くつう pain / suffering		第５週４日目
+痛い	いたい sore / painful		第５週４日目
+痛む	いたむ to ache / hurt		第５週４日目
+入浴	にゅうよく bathing		第５週４日目
+浴室	よくしつ a bathroom		第５週４日目
+海水浴	かいすいよく sea bathing		第５週４日目
+浴びる	あびる to pour (water) over oneself		第５週４日目
+浴衣	ゆかた Yukata (summer kimono)		第５週４日目
+目的	もくてき an aim / purpose		第５週４日目
+具体的な	ぐたいてきな concrete / specific		第５週４日目
+～的	～てき like / in the manner of (adjectival-noun forming suffix)		第５週４日目
+的確な	てきかくな accurate / exact		第５週４日目
+汗	あせ perspiration / sweat		第５週４日目
+医師	いし a doctor		第５週４日目
+教師	きょうし a teacher		第５週４日目
+技師	ぎし an engineer		第５週４日目
+相談	そうだん a consultation		第５週４日目
+会談	かいだん conference / talks		第５週４日目
+冗談	じょうだん a joke		第５週４日目
+乾燥	かんそう dryness		第５週４日目
+骨折	こっせつ bone fracture		第５週４日目
+折れる	おれる to break INTRANSITIVE		第５週４日目
+折る	おる to break / fold (something) TRANSITIVE		第５週４日目
+賞	しょう a prize		第５週５日目
+賞金	しょうきん a prize (money)		第５週５日目
+賞品	しょうひん prize (goods)		第５週５日目
+賞味期限	しょうみきげん best-before date		第５週５日目
+金庫	きんこ a safe		第５週５日目
+車庫	しゃこ a garage		第５週５日目
+冷蔵庫	れいぞうこ a refrigerator		第５週５日目
+製造	せいぞう manufacture		第５週５日目
+改造	かいぞう conversion / adaptation		第５週５日目
+造る	つくる to make		第５週５日目
+費用	ひよう an expense / cost		第５週５日目
+～費	～ひ expense / cost		第５週５日目
+消費	しょうひ consumption		第５週５日目
+可	か acceptable / possible		第５週５日目
+不可	ふか unacceptable		第５週５日目
+可決	かけつ approval		第５週５日目
+秒	びょう a second		第５週５日目
+自身	じしん oneself		第５週５日目
+出身	しゅっしん coming from ...		第５週５日目
+身体	しんたい body		第５週５日目
+身長	しんちょう height		第５週５日目
+中身	なかみ content		第５週５日目
+刺身	さしみ Sashimi (sliced raw fish)		第５週５日目
+召す	めす  1: (Honorific or respectful language) to call; to invite; to send for; to summon; 2: to eat; to drink; 3: to put on; to wear; 4: to ride; 5: to catch (a cold); to take (a bath); to tickle (one's fancy); to put on (years); to commit (seppuku); 6: to do; 7: (Archaism) honorific suffix used after the -masu stem of a verb TRANSITIVE		第５週５日目
+召し上がる	めしあがる to eat (polite form) TRANSITIVE		第５週５日目
+～杯	～はい ... cups		第５週５日目
+乾杯	かんぱい Cheers!		第５週５日目
+杯	さかずき sake cup		第５週５日目
+沸騰	ふっとう boiling		第５週５日目
+沸く	わく to boil INTRANSITIVE		第５週５日目
+沸かす	わかす to boil (something) TRANSITIVE		第５週５日目
+粉末	ふんまつ powder		第５週５日目
+花粉	かふん pollen		第５週５日目
+小麦粉	こむぎこ wheat flour		第５週５日目
+粉	こな powder / flour		第５週５日目
+月末	げつまつ the end of the month		第５週５日目
+末	すえ the end		第５週５日目
+末っ子	すえっこ youngest child		第５週５日目
+栄養	えいよう nutrition		第５週５日目
+繁栄	はんえい prosperity		第５週５日目
+栄える	さかえる to florish / prosper INTRANSITIVE		第５週５日目
+鳴る	なる to ring / chime INTRANSITIVE		第５週６日目
+鳴らす	ならす to ring / chime (a bell) TRANSITIVE		第５週６日目
+怒鳴る	どなる to shout		第５週６日目
+鳴く	なく to chirp / croak / bleat (etc.)		第５週６日目
+訪問	ほうもん a visit		第５週６日目
+訪れる	"おとずれる to visit / come (e.g. ""the day came"")"		第５週６日目
+訪ねる	たずねる to visit		第５週６日目
+呼ぶ	よぶ to call		第５週６日目
+呼び出す	よびだす to call / summon		第５週６日目
+警官	けいかん a police officer		第５週６日目
+警備	けいび security		第５週６日目
+警察	けいさつ police		第５週６日目
+警報	けいほう warning / alarm		第５週６日目
+予報	よほう a forecast		第５週６日目
+情報	じょうほう information		第５週６日目
+電報	でんぽう a telegram		第５週６日目
+裏	うら the reverse / back		第５週６日目
+裏口	うらぐち a back door		第５週６日目
+裏切る	うらぎる to betray		第５週６日目
+裏表	うらおもて both sides		第５週６日目
+交差点	こうさてん an intersection		第５週６日目
+差出人	さしだしにん a sender		第５週６日目
+差	さ difference		第５週６日目
+人差し指	ひとさしゆび an index finger		第５週６日目
+差別	さべつ discrimination		第５週６日目
+差す	さす 1: to shine; 2: to be visible; 3: to be tinged with; 4: to rise (of water levels); to flow in; 5: to be felt (i.e. as an emotion); to come over one;  6: () to hold up (an umbrella, etc.); to put up; to raise; 7: to extend one's arm straight ahead (in dance); 8: to insert; to put in; 9: to wear (a sword) in one's belt; to wear at one's side; to carry under one's arm; 10: to insert one's arm under an opponent's arm (in sumo); 11: to pole (a boat); 12: to pour; to add (liquid); to serve (drinks); 13: to put on (lipstick, etc.); to apply; to colour; to dye; 14: to light (a fire); to burn; 15: to shut; to close; to lock; to fasten;  16: () to stop in the midst of; to leave undone INTRANSITIVE		第５週６日目
+接続	せつぞく a connection		第５週６日目
+継続	けいぞく continuity		第５週６日目
+続く	つづく to continue INTRANSITIVE		第５週６日目
+続ける	つづける to continue (doing something) TRANSITIVE		第５週６日目
+手続き	てつづき a procedure		第５週６日目
+辞書	じしょ a dictionary / lexicon		第５週６日目
+辞典	じてん a dictionary		第５週６日目
+辞表	じひょう resignation		第５週６日目
+辞める	やめる to resign / retire TRANSITIVE		第５週６日目
+画面	がめん a screen		第５週６日目
+方面	ほうめん direction		第５週６日目
+正面	しょうめん front		第５週６日目
+操作	そうさ operation / manipulation		第５週６日目
+体操	たいそう exercise / gymnastics		第５週６日目
+実行	じっこう practice / action		第５週６日目
+実験	じっけん an experiment		第５週６日目
+事実	じじつ a fact		第５週６日目
+実	み a fruit / nut		第５週６日目
+実る	みのる to bear fruit INTRANSITIVE		第５週６日目
+列	れつ a line / queue		第５週６日目
+行列	ぎょうれつ a procession		第５週６日目
+列車	れっしゃ a train		第５週６日目
+列島	れっとう an archipelago		第５週６日目
+枯れる	かれる to wither		第５週７日目
+舟	ふね boat		第５週７日目
+貧しい	まずしい poor		第５週７日目
+昔	むかし long ago / old times		第５週７日目
+岩	いわ　 rock / crag		第５週７日目
+泣く	なく to cry / weep		第５週７日目
+咲く	さく to bloom INTRANSITIVE		第５週７日目
+司会	しかい moderation / facilitation (of a meeting)		第５週７日目
+残念	ざんねん regret / disappointment		第５週７日目
+涼しい	すずしい cool		第５週７日目
+涼む	すずむ to cool oneself; to cool off; to enjoy evening cool INTRANSITIVE		第５週７日目
+散歩	さんぽ a walk / stroll		第５週７日目
+吹く	ふく to blow		第５週７日目
+赤ん坊	あかんぼう baby		第５週７日目
+怒る	おこる to be angry INTRANSITIVE		第５週７日目
+家畜	かちく livestock		第５週７日目
+才能	さいのう ability / talent		第５週７日目
+珍しい	めずらしい rare		第５週７日目
+得	とく a profit / benefit		第６週１日目
+納得	なっとく assent / understanding		第６週１日目
+得る	うる　/　える to obtain TRANSITIVE		第６週１日目
+心得る	こころえる to understand / be well aware		第６週１日目
+広告	こうこく an advertisement		第６週１日目
+報告	ほうこく a report		第６週１日目
+警告	けいこく warning / caution		第６週１日目
+告げる	つげる to inform TRANSITIVE		第６週１日目
+税金	ぜいきん a tax		第６週１日目
+消費税	しょうひぜい a consumption tax (VAT)		第６週１日目
+税関	ぜいかん Customs		第６週１日目
+課税	かぜい taxation		第６週１日目
+定価	ていか a (fixed) price		第６週１日目
+物価	ぶっか price / cost of living		第６週１日目
+価格	かかく a price		第６週１日目
+性格	せいかく character / personality		第６週１日目
+超～	ちょう～ ultra- / super-		第６週１日目
+超過	ちょうか excess / surplus		第６週１日目
+超える	こえる to get over / go over / exceed INTRANSITIVE		第６週１日目
+超す	こす to cross / pass / exceed		第６週１日目
+平均	へいきん an average		第６週１日目
+均等	きんとう uniformity / equality		第６週１日目
+均一	きんいつ uniformity		第６週１日目
+靴	くつ shoes		第６週１日目
+靴下	くつした socks		第６週１日目
+長靴	ながぐつ boots		第６週１日目
+雨靴	あまぐつ rain shoes		第６週１日目
+提供	ていきょう an offer / a tender		第６週１日目
+子供	こども a child		第６週１日目
+印象	いんしょう an impression		第６週１日目
+現象	げんしょう a phenomenon		第６週１日目
+対象	たいしょう object (e.g. of study)		第６週１日目
+象	ぞう an elephant		第６週１日目
+組織	そしき an organization		第６週１日目
+番組	ばんぐみ a (TV) program		第６週１日目
+組み合わせ	くみあわせ combination		第６週１日目
+組合	くみあい an association		第６週１日目
+価値	かち value / worth		第６週１日目
+数値	すうち a numerical value		第６週１日目
+値段	ねだん a price		第６週１日目
+値	あたい value		第６週１日目
+募集	ぼしゅう recruitment		第６週１日目
+応募	おうぼ an application		第６週１日目
+募金	ぼきん fund-raising		第６週１日目
+募る	つのる to collect / raise (money) / recruit TRANSITIVE		第６週１日目
+無料	むりょう no charge		第６週１日目
+有無	うむ existence or nonexistence		第６週１日目
+無事	ぶじ unharmed / safe		第６週１日目
+～無し	～なし no ...		第６週１日目
+詰める	つめる  to stuff / cram / pack TRANSITIVE		第６週２日目
+詰まる	つまる  1: to be blocked; to be packed; 2: to hit the ball near the handle of the bat (baseball) INTRANSITIVE		第６週２日目
+缶詰	かんづめ food etc. in a can		第６週２日目
+箱詰	はこづめ food etc. in a box		第６週２日目
+麦畑	むぎばたけ a wheat field		第６週２日目
+純粋な	じゅんすいな pure		第６週２日目
+純情な	じゅんじょうな a pure heart		第６週２日目
+単純な	たんじゅんな simple / simple-minded		第６週２日目
+純米酢	じゅんまいす pure rice vinegar		第６週２日目
+雑草	ざっそう weed		第６週２日目
+除草	じょそう weeding		第６週２日目
+草	くさ grass		第６週２日目
+草花	くさばな a flowering plant		第６週２日目
+食塩	しょくえん table salt		第６週２日目
+塩	しお salt		第６週２日目
+固定	こてい stability / fixation		第６週２日目
+固体	こたい solid (body)		第６週２日目
+固形	こけい solid (form)		第６週２日目
+固い	かたい hard		第６週２日目
+固まる	かたまる to harden INTRANSITIVE		第６週２日目
+固める	かためる  1: to harden; to freeze; to strengthen; to solidify; to make (a fist); to tramp down (snow, dirt); 2: to put together; to collect; to gather; to consolidate; 3: to make secure; to stabilize; to settle down; to strengthen (belief, resolution, etc.); to establish (evidence); 4: to fortify; to reinforce; to support; 5: to wear for a specific purpose (armor, coat, etc.); 6: to swear; to resolutely vow; to sincerely promise; 7: to tie tightly; to fasten; 8: to hold a bow fully drawn TRANSITIVE		第６週２日目
+実演	じつえん a demonstration		第６週２日目
+演技	えんぎ acting / performance		第６週２日目
+演習	えんしゅう exercise / maneuvers		第６週２日目
+演説	えんぜつ a speech / oration		第６週２日目
+菓子	かし sweets		第６週２日目
+和菓子	わがし Japanese sweets		第６週２日目
+洋菓子	ようがし Western sweets		第６週２日目
+贈り物	おくりもの a gift		第６週２日目
+贈る	おくる to present / give TRANSITIVE		第６週２日目
+帰省	きせい homecoming		第６週２日目
+反省	はんせい self-examination / reflection		第６週２日目
+～省	～しょう Ministry of ...		第６週２日目
+省エネ	しょうえね energy saving		第６週２日目
+省く	はぶく to delete / omit TRANSITIVE		第６週２日目
+省略	しょうりゃく an abbreviation / omission		第６週２日目
+了承	りょうしょう consent / approval		第６週２日目
+承認	しょうにん approval / confirmation		第６週２日目
+承知	しょうち knowledge / consent		第６週２日目
+承る	うけたまわる to serve / attend to TRANSITIVE		第６週２日目
+展覧会	てんらんかい an exhibition		第６週２日目
+展示	てんじ exhibition / display		第６週２日目
+～展	～てん ... exhibition		第６週２日目
+発展	はってん development		第６週２日目
+破格	はかく exceptional		第６週２日目
+破産	はさん bankruptcy		第６週２日目
+破片	はへん a fragment		第６週２日目
+破れる	やぶれる to break / rip INTRANSITIVE		第６週２日目
+破る	やぶる break / rip / violate (something)		第６週２日目
+処理	しょり disposal / processing		第６週２日目
+処置	しょち management / measure		第６週２日目
+処分	しょぶん disposal / punishment		第６週２日目
+温泉	おんせん a hot spring		第６週３日目
+泉	いずみ a spring		第６週３日目
+宿題	しゅくだい a homework		第６週３日目
+下宿	げしゅく lodgings		第６週３日目
+宿	やど an inn		第６週３日目
+季節	きせつ a season		第６週３日目
+四季	しき the four seasons		第６週３日目
+冬季	とうき the winter season		第６週３日目
+豊作	ほうさく a bumper crop		第６週３日目
+豊かな	ゆたかな wealthy / abundant		第６週３日目
+豊富な	ほうふな abundant		第６週３日目
+富士山	ふじさん Mount Fuji		第６週３日目
+富む	とむ to be wealthy / abundant INTRANSITIVE		第６週３日目
+富	とみ wealth		第６週３日目
+送迎	そうげい a pickup service		第６週３日目
+歓迎	かんげい a welcome		第６週３日目
+迎える	むかえる to (go to) meet / welcome TRANSITIVE		第６週３日目
+出迎え	でむかえ going to meet someone (e.g. at the station)		第６週３日目
+～泊	～はく ... night stay		第６週３日目
+宿泊	しゅくはく lodging		第６週３日目
+泊まる	とまる to stay INTRANSITIVE		第６週３日目
+泊める	とめる to give shelter to; to lodge TRANSITIVE		第６週３日目
+入居	にゅうきょ moving into (e.g. an apartment)		第６週３日目
+居間	いま living room		第６週３日目
+居る	いる to be INTRANSITIVE		第６週３日目
+築～年	ちく～ねん built in ... (year)		第６週３日目
+建築	けんちく architecture		第６週３日目
+三角	さんかく a triangle		第６週３日目
+角度	かくど an angle		第６週３日目
+方角	ほうがく direction / way		第６週３日目
+角	かど a corner		第６週３日目
+生徒	せいと a student		第６週３日目
+徒歩	とほ going on foot		第６週３日目
+畳	たたみ tatami (Japanese straw mats)		第６週３日目
+畳む	たたむ to fold TRANSITIVE		第６週３日目
+～畳	～じょう ... mats		第６週３日目
+欧米	おうべい Europe and America / the West		第６週３日目
+平米	へいべい square meters		第６週３日目
+新米	しんまい 1. new rice 2. new face		第６週３日目
+米	こめ rice		第６週３日目
+解説	かいせつ an explanation		第６週３日目
+解決	かいけつ a solution		第６週３日目
+解放	かいほう a release		第６週３日目
+解散	かいさん dissolution		第６週３日目
+解約	かいやく a cancellation (of a contract)		第６週３日目
+解く	とく to solve / untie  TRANSITIVE		第６週３日目
+この辺	このへん around here		第６週４日目
+周辺	しゅうへん vicinity		第６週４日目
+辺り	あたり around		第６週４日目
+海辺	うみべ a beach		第６週４日目
+診察	しんさつ a (medical) consultation		第６週４日目
+役所	やくしょ a government office		第６週４日目
+役目	やくめ a role / duty		第６週４日目
+役者	やくしゃ an actor		第６週４日目
+現役	げんえき active service		第６週４日目
+美人	びじん a beautiful woman		第６週４日目
+美しい	うつくしい beautiful		第６週４日目
+美術	びじゅつ (fine) art		第６週４日目
+技術	ぎじゅつ technique / technology		第６週４日目
+手術	しゅじゅつ surgery / operation		第６週４日目
+芸術	げいじゅつ art		第６週４日目
+坂	さか hill / slope		第６週４日目
+～坂	～ざか ... Hill		第６週４日目
+～寺	～じ ... Temple		第６週４日目
+寺院	じいん a temple / an abbey		第６週４日目
+寺	てら a temple		第６週４日目
+湾	わん a bay		第６週４日目
+～湾	～わん ... Bay		第６週４日目
+～島	～とう ... Island		第６週４日目
+半島	はんとう a peninsula		第６週４日目
+島	しま an island		第６週４日目
+海岸	かいがん a seashore		第６週４日目
+湾岸	わんがん a gulf		第６週４日目
+岸	きし a shore / bank		第６週４日目
+川岸	かわぎし a riverbank		第６週４日目
+公園	こうえん a park		第６週４日目
+動物園	どうぶつえん a zoo		第６週４日目
+遊園地	ゆうえんち an amusement park		第６週４日目
+～園	～えん ... Park		第６週４日目
+～湖	～こ ... Lake		第６週４日目
+湖	みずうみ a lake		第６週４日目
+～城	～じょう ... Castle		第６週４日目
+城	しろ a castle		第６週４日目
+渓谷	けいこく a gorge / ravine		第６週４日目
+谷	たに a valley		第６週４日目
+谷間	たにま a valley / ravine		第６週４日目
+谷川	たにがわ a mountain stream		第６週４日目
+財産	ざいさん property / fortune		第６週５日目
+文化財	ぶんかざい cultural property		第６週５日目
+財布	さいふ a wallet / purse		第６週５日目
+観光	かんこう sightseeing		第６週５日目
+観客	かんきゃく a spectator / audience		第６週５日目
+観察	かんさつ observation		第６週５日目
+観音	かんのん Kannon / the Buddhist Deity of Mercy		第６週５日目
+宝石	ほうせき a jewel / gem		第６週５日目
+宝物館	ほうもつかん museum of treasures		第６週５日目
+国宝	こくほう a national treasure		第６週５日目
+宝物	たからもの treasure		第６週５日目
+宝	たから treasure		第６週５日目
+仏教	ぶっきょう Buddhism		第６週５日目
+仏像	ぶつぞう a statue of Buddha		第６週５日目
+仏	ほとけ Buddha / deceased person		第６週５日目
+日仏	にちふつ Japan and France		第６週５日目
+国王	こくおう a king		第６週５日目
+王子	おうじ a prince		第６週５日目
+王女	おうじょ a princess		第６週５日目
+女王	じょおう a queen		第６週５日目
+銅	どう copper / bronze		第６週５日目
+銅像	どうぞう a bronze statue		第６週５日目
+塔	とう a tower / pagoda		第６週５日目
+五重の塔	ごじゅうのとう a five-storied pagoda		第６週５日目
+～塔	～とう ... Pagoda		第６週５日目
+絵	え a picture		第６週５日目
+絵の具	えのぐ paint / colors		第６週５日目
+絵画	かいが a painting		第６週５日目
+略	りゃく an abbreviation		第６週５日目
+略す	りゃくす to abbreviate  TRANSITIVE		第６週５日目
+略歴	りゃくれき a profile		第６週５日目
+順	じゅん order		第６週５日目
+順路	じゅんろ a route		第６週５日目
+順番	じゅんばん a turn / order		第６週５日目
+順調	じゅんちょう smooth / favorable		第６週５日目
+出版	しゅっぱん a publication		第６週５日目
+出版社	しゅっぱんしゃ a publishing company		第６週５日目
+版画	はんが a print / an engraving		第６週５日目
+工芸	こうげい industrial arts		第６週５日目
+芸能	げいのう public entertainment		第６週５日目
+園芸	えんげい gardening		第６週５日目
+複製	ふくせい a duplicate / replica		第６週５日目
+複雑な	ふくざつな complex / complicated		第６週５日目
+複写	ふくしゃ duplicate / copy		第６週５日目
+複数	ふくすう the plural (number)		第６週５日目
+刊行物	かんこうぶつ a publication		第６週５日目
+朝刊	ちょうかん a morning newspaper		第６週５日目
+週刊	しゅうかん weekly publication		第６週５日目
+月刊	げっかん monthly publication		第６週５日目
+高層	こうそう the upper layers		第６週６日目
+低層	ていそう the lower layers		第６週６日目
+一層	いっそう more / still more		第６週６日目
+約束	やくそく promise / appointment		第６週６日目
+束	たば a bunch / bundle		第６週６日目
+花束	はなたば a bunch of flowers / a bouquet		第６週６日目
+束ねる	たばねる to bind in a bunch / bundle TRANSITIVE		第６週６日目
+甘い	あまい sweet		第６週６日目
+甘口	あまくち the sweet side		第６週６日目
+甘やかす	あまやかす to spoil (a child) TRANSITIVE		第６週６日目
+辛い	からい (spicy) hot		第６週６日目
+辛口	からくち the dry side		第６週６日目
+皿	さら plate		第６週６日目
+～皿	～さら ... plates		第６週６日目
+大皿	おおざら a big plate		第６週６日目
+小皿	こざら a small plate		第６週６日目
+綿 - 2 versions	めん cotton わた cotton (wool) / a cotton plant		第６週６日目
+木綿	もめん cotton / cotton cloth		第６週６日目
+旧館	きゅうかん the older building		第６週６日目
+旧姓	きゅうせい a maiden name		第６週６日目
+復旧	ふっきゅう restoration		第６週６日目
+厚生労働省	こうせいろうどうしょうMinistry of Health, Labour and Welfare		第６週６日目
+厚い	あつい thick		第６週６日目
+厚切り	あつぎり thick slice		第６週６日目
+厚かましい	あつかましい impudent		第６週６日目
+厚手	あつで a thickly made article		第６週６日目
+薄い	うすい thin (material) / light (color) / weak (drink)		第６週６日目
+薄切り	うすぎり thin slice		第６週６日目
+薄手	うすで a thinly made article		第６週６日目
+薄める	うすめる to dilute TRANSITIVE		第６週６日目
+薄まる	うすまるto become weak INTRANSITIVE		第６週６日目
+粒	つぶ grain		第６週６日目
+～粒	～つぶ ... grains		第６週６日目
+北極	ほっきょく the North pole		第６週６日目
+南極	なんきょく the South Pole		第６週６日目
+積極的	せっきょくてきactive / positive		第６週６日目
+消極的	しょうきょくてき passive / negative		第６週６日目
+極	ごく very / extremely		第６週６日目
+改革	かいかく a reform		第６週６日目
+革命	かくめい a revolution		第６週６日目
+革	かわ leather		第６週６日目
+革製	かわせい made of leather		第６週６日目
+苦い	にがい bitter		第６週６日目
+苦しい	くるしい distressful / trying		第６週６日目
+苦しむ	くるしむ to suffer INTRANSITIVE		第６週６日目
+求人	きゅうじん 'Help Wanted'		第７週１日目
+要求	ようきゅう a demand / request		第７週１日目
+請求書	せいきゅうしょ a bill / an invoice		第７週１日目
+求める	もとめる to demand / request TRANSITIVE		第７週１日目
+簡単	かんたん easy		第７週１日目
+単語	たんご a word		第７週１日目
+単位	たんい a unit / credit		第７週１日目
+単に	たんに merely / simply		第７週１日目
+単なる	たんなる mere / simple		第７週１日目
+許可	きょか permission		第７週１日目
+免許	めんきょ a permit / license		第７週１日目
+許す	ゆるす to permit / allow TRANSITIVE		第７週１日目
+給料	きゅうりょう a wage / salary		第７週１日目
+支給	しきゅう a payment		第７週１日目
+供給	きょうきゅう supply / provision		第７週１日目
+月給	げっきゅう a monthly wage		第７週１日目
+週給	しゅうきゅう a weekly wage		第７週１日目
+日給	にっきゅう a daily wage		第７週１日目
+給与	きゅうよ an allowance		第７週１日目
+与える	あたえる to give / present TRANSITIVE		第７週１日目
+応じる	おうじる to respond INTRANSITIVE		第７週１日目
+一応	いちおう tentatively		第７週１日目
+応用	おうよう putting to practical use		第７週１日目
+課	か a lesson / section		第７週１日目
+課長	かちょう a section chief		第７週１日目
+日課	にっか a daily lesson / task		第７週１日目
+課程	かてい a course / curriculum		第７週１日目
+過程	かてい a process / course		第７週１日目
+程度	ていど degree / amount		第７週１日目
+日程	にってい a schedule		第７週１日目
+制度	せいど a system		第７週１日目
+制限	せいげん a restriction / limitation		第７週１日目
+制作	せいさく work / production		第７週１日目
+体制	たいせい a system / structure		第７週１日目
+講座	こうざ a class / course		第７週１日目
+講義	こうぎ a lecture		第７週１日目
+講演	こうえん a lecture		第７週１日目
+講師	こうし a lecturer		第７週１日目
+初級	しょきゅう beginning level		第７週１日目
+中級	ちゅうきゅう intermediate level		第７週１日目
+上級	じょうきゅう advanced level		第７週１日目
+高級	こうきゅう high class / grade		第７週１日目
+基本	きほん a foundation / basics		第７週１日目
+基礎	きそ a foundation / groundwork		第７週１日目
+基準	きじゅん a standard / criterion		第７週１日目
+基地	きち a base		第７週１日目
+指導	しどう leadership / guidance		第７週１日目
+導入	どうにゅう an introduction		第７週１日目
+導く	みちびく to lead TRANSITIVE		第７週１日目
+校庭	こうてい a (school) playground / schoolyard		第７週２日目
+家庭	かてい a home / family / household		第７週２日目
+庭	にわ a garden		第７週２日目
+教育	きょういく education		第７週２日目
+体育	たいいく physical education		第７週２日目
+育児	いくじ childcare / nursing		第７週２日目
+育つ	そだつ to grow INTRANSITIVE		第７週２日目
+育てる	そだてる to raise / bring up  TRANSITIVE		第７週２日目
+猫	ねこ a cat		第７週２日目
+探検	たんけん an exploration / expedition		第７週２日目
+探す	さがす to search / look for TRANSITIVE		第７週２日目
+探る	さぐる  1: to feel around for; to fumble for; to grope for; to search for; to look for; 2: to investigate; to probe into; to spy on; to sound out; 3: to explore (parts unknown); to enjoy (natural beauty) TRANSITIVE		第７週２日目
+灰	はい ash		第７週２日目
+灰色	はいいろ gray		第７週２日目
+灰皿	はいざら an ashtray		第７週２日目
+車輪	しゃりん a (car) wheel		第７週２日目
+指輪	ゆびわ a ring		第７週２日目
+首輪	くびわ a collar		第７週２日目
+今晩	こんばん tonight		第７週２日目
+晩御飯	ばんごはん dinner		第７週２日目
+毎晩	まいばん every night		第７週２日目
+劇	げき a drama / play		第７週２日目
+劇団	げきだん a theatrical company		第７週２日目
+劇場	げきじょう a theater / playhouse		第７週２日目
+演劇	えんげき a (theatrical) play		第７週２日目
+公演	こうえん a public performance		第７週２日目
+公共	こうきょう public / communal		第７週２日目
+公務員	こうむいん a civil servant / government employee		第７週２日目
+日本舞踊	にほんぶよう traditional Japanese dance		第７週２日目
+踊る	おどる to dance INTRANSITIVE		第７週２日目
+踊り	おどり a dance		第７週２日目
+種類	しゅるい type / kind		第７週２日目
+人種	じんしゅ a race (of people)		第７週２日目
+雑種	ざっしゅ a hybrid		第７週２日目
+種	たね a seed		第７週２日目
+匹敵する	ひってきするto compare with / rival		第７週２日目
+～匹	～ひき (counter for small animals)		第７週２日目
+渡米	とべい going to America		第７週２日目
+渡る	わたる to cross over INTRANSITIVE		第７週２日目
+渡す	わたす to hand over TRANSITIVE		第７週２日目
+渡辺	わたなべ (人名 = Japanese family name)		第７週２日目
+乗馬	じょうば horse riding		第７週２日目
+馬	うま a horse		第７週２日目
+貝	かい a shell / shellfish		第７週３日目
+貝殻	かいがら shell		第７週３日目
+～酒	～しゅ ... liquor		第７週３日目
+酒	さけ alcohol / liquor		第７週３日目
+酒屋	さかや a liquor store		第７週３日目
+居酒屋	いざかや Japanese pub		第７週３日目
+蒸発	じょうはつ evaporation		第７週３日目
+水蒸気	すいじょうき water vapor / steam		第７週３日目
+蒸す	むす to steam TRANSITIVE		第７週３日目
+蒸し暑い	むしあつい humid / sultry		第７週３日目
+干す	ほす to hang (for drying) TRANSITIVE		第７週３日目
+干物	ひもの dried food		第７週３日目
+竹	たけ a bamboo		第７週３日目
+竹の子 / 筍	たけのこ a bamboo shoot		第７週３日目
+卵	たまご an egg		第７週３日目
+大根	だいこん a Japanese white radish		第７週３日目
+根	ね a root		第７週３日目
+屋根	やね a roof		第７週３日目
+材料	ざいりょう ingredients / materials		第７週３日目
+原材料	げんざいりょう raw materials		第７週３日目
+材質	ざいしつ material properties		第７週３日目
+教材	きょうざい teaching materials		第７週３日目
+植物	しょくぶつ plant		第７週３日目
+植える	うえる to plant / grow TRANSITIVE		第７週３日目
+植木	うえき potted plants, garden shrubs		第７週３日目
+田植え	たうえ rice planting		第７週３日目
+砂糖	さとう sugar		第７週３日目
+砂漠	さばく desert		第７週３日目
+砂	すな sand		第７週３日目
+牛乳	ぎゅうにゅう (cow's) milk		第７週３日目
+乳製品	にゅうせいひん dairy products		第７週３日目
+乳児	にゅうじ a baby (under 1 year old)		第７週３日目
+乳	ちち milk / the breasts		第７週３日目
+含む	ふくむ to be included INTRANSITIVE		第７週３日目
+含める	ふくめる to include TRANSITIVE		第７週３日目
+炭水化物	たんすいかぶつ carbohydrate		第７週３日目
+石炭	せきたん coal		第７週３日目
+炭	すみ charcoal		第７週３日目
+脂肪	しぼう fat / grease		第７週３日目
+脂質	ししつ lipids / fats		第７週３日目
+油脂	ゆし fats and oils		第７週３日目
+脂	あぶら fat / lard		第７週３日目
+封筒	ふうとう an envelope		第７週４日目
+水筒	すいとう a canteen / a water bottle		第７週４日目
+筒	つつ a pipe / tube		第７週４日目
+卒業	そつぎょう graduation		第７週４日目
+卒業証明書	そつぎょうしょうめいしょ a diploma		第７週４日目
+成績	せいせき results / record		第７週４日目
+業績	ぎょうせき an achievement / business result		第７週４日目
+実績	じっせき actual results / an achievement		第７週４日目
+論文	ろんぶん a thesis / treatise		第７週４日目
+議論	ぎろん an argument / discussion / debate		第７週４日目
+結論	けつろん a conclusion		第７週４日目
+論じる	ろんじる to argue / discuss / debate TRANSITIVE		第７週４日目
+志望	しぼう wish / desire		第７週４日目
+意志	いし will / volition		第７週４日目
+記述	きじゅつ a description		第７週４日目
+口述	こうじゅつ verbal statement		第７週４日目
+前述	ぜんじゅつ the aforementioned / above-mentioned		第７週４日目
+述べる	のべる to state / mention TRANSITIVE		第７週４日目
+結構	けっこう splendid / nice		第７週４日目
+構成	こうせい composition		第７週４日目
+構内	こうない a campus / grounds		第７週４日目
+構う	かまう to mind / care about		第７週４日目
+遅刻	ちこく tardiness / slowness		第７週４日目
+遅い	おそい slow		第７週４日目
+遅れる	おくれる to be late INTRANSITIVE		第７週４日目
+仮名	かな Japanese syllabary		第７週４日目
+振り仮名	ふりがな kana syllables written beside Chinese characters		第７週４日目
+仮定	かてい assumption / supposition		第７週４日目
+仮	かり temporary / provisional		第７週４日目
+机	つくえ a desk		第７週４日目
+～冊	～さつ  counter for books		第７週４日目
+冊子	さっし a booklet / pamphlet		第７週４日目
+採点	さいてん grading / marking		第７週４日目
+採用	さいよう adoption / employment		第７週４日目
+採集	さいしゅう collecting / gathering		第７週４日目
+採る	とる to adopt (a measure / proposal) TRANSITIVE		第７週４日目
+濃度	のうど concentration / density		第７週４日目
+濃い	こい concentrated / dark (color)		第７週４日目
+鉛筆	えんぴつ a pencil		第７週４日目
+筆者	ひっしゃ a writer / an author		第７週４日目
+筆記	ひっき (taking) notes / copying		第７週４日目
+筆	ふで a writing brush		第７週４日目
+航空	こうくう aviation / flying		第７週５日目
+運航	うんこう operation (e.g. ships, aircraft)		第７週５日目
+欠航	けっこう suspension of service		第７週５日目
+陸	りく land / shore		第７週５日目
+着陸	ちゃくりく a landing / touchdown		第７週５日目
+大陸	たいりく a continent		第７週５日目
+陸上	りくじょう the land / being on the land		第７週５日目
+損	そん loss / disadvantage		第７週５日目
+損傷	そんしょう damage / injury		第７週５日目
+損害	そんがい damage / injury / loss		第７週５日目
+損得	そんとく loss and gain		第７週５日目
+気候	きこう climate		第７週５日目
+天候	てんこう weather		第７週５日目
+風船	ふうせん a balloon		第７週５日目
+造船	ぞうせん shipbuilding		第７週５日目
+船	ふね a boat / ship		第７週５日目
+船便	ふなびん surface / sea mail		第７週５日目
+丸	まる a circle		第７週５日目
+～丸	～まる (船の名前 = name of a ship)		第７週５日目
+丸い	まるい round / circular / spherical		第７週５日目
+混雑	こんざつ confusion / congestion		第７週５日目
+混じる	まじる to be mixed INTRANSITIVE		第７週５日目
+混ざる	まざる to be mixed INTRANSITIVE		第７週５日目
+掻き混ぜる	かきまぜる to stir TRANSITIVE		第７週５日目
+混ぜる	まぜる to mix; to stir; to blend TRANSITIVE		第７週５日目
+予想	よそう anticipation / forecast		第７週５日目
+感想	かんそう impression / thoughts		第７週５日目
+想像	そうぞう imagination / guess		第７週５日目
+理想	りそう ideal		第７週５日目
+事故	じこ an accident		第７週５日目
+故障	こしょう breakdown / failure		第７週５日目
+故郷	こきょう hometown / birthplace		第７週５日目
+混乱	こんらん disorder / confusion		第７週５日目
+乱暴な	らんぼうな rude / violent / rough		第７週５日目
+乱れる	みだれる to fall into disorder INTRANSITIVE		第７週５日目
+乱す	みだす to throw out of order; to disarrange; to disturb TRANSITIVE		第７週５日目
+運河	うんが a canal / waterway		第７週５日目
+河川	かせん a river		第７週５日目
+河	かわ a river / stream		第７週５日目
+輸出	ゆしゅつ exportation		第７週５日目
+輸入	ゆにゅう importation		第７週５日目
+輸血	ゆけつ a blood transfusion		第７週５日目
+輸送	ゆそう transportation		第７週５日目
+率	りつ a rate / ratio		第７週６日目
+利率	りりつ interest rate		第７週６日目
+確率	かくりつ probability		第７週６日目
+能率	のうりつ efficiency		第７週６日目
+率直	そっちょく frankness / candor		第７週６日目
+宇宙	うちゅう the universe / outer space		第７週６日目
+宇都宮	うつのみや (地名 = place name)		第７週６日目
+～戸	～こ counter for houses		第７週６日目
+一戸建て	いっこだて a detached house		第７週６日目
+戸	と a door		第７週６日目
+雨戸	あまど a sliding storm door		第７週６日目
+水戸	みと (地名 = place name)		第７週６日目
+晴天	せいてん fine weather / clear sky		第７週６日目
+快晴	かいせい good weather		第７週６日目
+晴れる	to be sunny INTRANSITIVE		第７週６日目
+素晴らしい	すばらしい wonderful / magnificent		第７週６日目
+曇り	くもり cloudy weather		第７週６日目
+曇る	くもる to become cloudy INTRANSITIVE		第７週６日目
+積雪	せきせつ (an accumulation of) snow		第７週６日目
+吹雪	ふぶき a snowstorm		第７週６日目
+雪	ゆき snow		第７週６日目
+大雪	おおゆき heavy snow		第７週６日目
+知恵	ちえ wisdom		第７週６日目
+恩恵	おんけい benefits		第７週６日目
+恵まれる	めぐまれる to be blessed with INTRANSITIVE		第７週６日目
+太陽	たいよう the sun		第７週６日目
+陽気 - 2 versions	ようき 1. weather 2. cheerfulness		第７週６日目
+雲	くも clouds		第７週６日目
+雨雲	あまぐも rain clouds		第７週６日目
+漁船	ぎょせん a fishing boat		第７週７日目
+漁師	りょうし a fisherman		第７週７日目
+海底	かいてい the sea bottom		第７週７日目
+海の底	うみのそこ the sea bottom		第７週７日目
+鉱山	こうざん a mine (e.g. coal mine)		第７週７日目
+炭鉱	たんこう a coal mine / coal pit		第７週７日目
+彼岸	ひがん the week of the equinox		第７週７日目
+彼	かれ he / him / boyfriend		第７週７日目
+彼女	かのじょ she / her / girlfriend		第７週７日目
+水滴	すいてき a waterdrop		第７週７日目
+偉大な	いだいな great		第７週７日目
+偉い	えらい great		第７週７日目
+規則	きそく rule / regulation		第７週７日目
+測定	そくてい a measurement		第７週７日目
+測る	はかる to measure / weigh TRANSITIVE		第７週７日目
+授業	じゅぎょう a class / lesson		第７週７日目
+零下	れいか being sub-zero		第７週７日目
+本州	ほんしゅう Honshu (main island of Japan)		第８週１日目
+～州	～しゅう a state (e.g. the state of Texas)		第８週１日目
+電波	でんぱ a radio wave		第８週１日目
+波	なみ a wave		第８週１日目
+津波	つなみ a tsunami		第８週１日目
+強盗	ごうとう a robbery		第８週１日目
+盗難	とうなん a theft		第８週１日目
+盗む	ぬすむ to steal TRANSITIVE		第８週１日目
+逃走	とうそう an escape / flight		第８週１日目
+逃げる	にげる to escape INTRANSITIVE		第８週１日目
+逃がす	にがす to release / let go TRANSITIVE		第８週１日目
+逃す	のがす to let slip TRANSITIVE		第８週１日目
+疑問	ぎもん a question / doubt		第８週１日目
+容疑	ようぎ suspicion		第８週１日目
+疑う	うたがう to doubt / suspect TRANSITIVE		第８週１日目
+逮捕	たいほ arrest / capture		第８週１日目
+捕まる	つかまる to be arrested / be caught INTRANSITIVE		第８週１日目
+捕まえる	つかまえる to arrest / catch TRANSITIVE		第８週１日目
+捕る	とる to take / catch (fish) TRANSITIVE		第８週１日目
+捕らえる	とらえる to seize / grasp / arrest TRANSITIVE		第８週１日目
+絶対(に)	ぜったい(に) absolutely / definitely		第８週１日目
+絶つ	たつ to sever / cut off / suppress TRANSITIVE		第８週１日目
+絶える	たえる  1: to die out; to peter out; to become extinct; 2: to cease; to be stopped; to be discontinued; to be cut off INTRANSITIVE		第８週１日目
+絶えず	たえず constantly		第８週１日目
+政党	せいとう a political party		第８週１日目
+～党	～とう a party (political)		第８週１日目
+与党	よとう the ruling party		第８週１日目
+野党	やとう the opposition party		第８週１日目
+候補(者)	こうほ(しゃ) a candidate		第８週１日目
+補足	ほそく supplement / complement		第８週１日目
+補助	ほじょ assistance / support		第８週１日目
+補う	おぎなう to compensate for / supplement TRANSITIVE		第８週１日目
+児童	じどう children / juvenile		第８週１日目
+童話	どうわ a fairy tale		第８週１日目
+爆発	ばくはつ an explosion		第８週１日目
+暴走	ぼうそう running wildly		第８週１日目
+暴れる	あばれる to behave violently INTRANSITIVE		第８週１日目
+死亡	しぼう death		第８週１日目
+亡くなる	なくなる to die INTRANSITIVE		第８週１日目
+亡くす	なくすto lose someone TRANSITIVE		第８週１日目
+～罪	～ざい crime of ...		第８週１日目
+無罪	むざい innocent		第８週１日目
+有罪	ゆうざい guilty		第８週１日目
+罪	つみ a crime		第８週１日目
+典型的な	てんけいてきな typical / model / ideal		第８週２日目
+大型	おおがた a large / jumbo size		第８週２日目
+～型	～がた model / style / shape		第８週２日目
+欧州	おうしゅう Europe		第８週２日目
+苦労	くろう troubles / hardships		第８週２日目
+ご苦労様	ごくろうさま Thank you very much (said by a sensior person to a junior for doing a job)		第８週２日目
+兆	ちょう sign / omen, trillion (American), billion (British), 10^12		第８週２日目
+貿易	ぼうえき (foreign) trade		第８週２日目
+容易	ようい easy / plain / simple		第８週２日目
+安易な	あんいな easy-going		第８週２日目
+易しい	やさしい easy / plain / simple		第８週２日目
+農業	のうぎょう agriculture		第８週２日目
+農家	のうか a farmer / farm family		第８週２日目
+農産物	のうさんぶつ agricultural produce		第８週２日目
+命じる	めいじる to order / command TRANSITIVE		第８週２日目
+生命	せいめい life / existence		第８週２日目
+一生懸命	いっしょうけんめい very hard / with utmost effort		第８週２日目
+命	いのち life		第８週２日目
+命令	めいれい an order / command		第８週２日目
+被害	ひがい damage		第８週２日目
+被害者	ひがいしゃ a victim		第８週２日目
+被告	ひこく a defendant		第８週２日目
+害	がい injury / harm / damage		第８週２日目
+公害	こうがい public nuisance / pollution		第８週２日目
+水害	すいがい water damage / flood disaster		第８週２日目
+殺害	さつがい a murder		第８週２日目
+権利	けんり right / privilige		第８週２日目
+人権	じんけん human rights / civil liberties		第８週２日目
+～権	～けん authority / right		第８週２日目
+億	おく a hundred million		第８週２日目
+星座	せいざ a constellation		第８週２日目
+星	ほし a star		第８週２日目
+星印	ほしじるし a star / an asterisk		第８週２日目
+武器	ぶき weapons / arms		第８週３日目
+武力	ぶりょく military power		第８週３日目
+武士	ぶし a warrior / samurai		第８週３日目
+巨大な	きょだいな huge / gigantic		第８週３日目
+巨額	きょがく a great sum		第８週３日目
+競馬	けいば horse racing		第８週３日目
+競う	きそう to emulate / compete with INTRANSITIVE		第８週３日目
+失敗	しっぱい a failure / mistake		第８週３日目
+連敗	れんぱい a series of defeats		第８週３日目
+敗れる	やぶれる to be defeated INTRANSITIVE		第８週３日目
+逆	ぎゃく the reverse / opposite		第８週３日目
+逆転	ぎゃくてん a (sudden) change / reversal		第８週３日目
+逆さ	さかさ upside down / inversion		第８週３日目
+逆らう	さからう to oppose / defy  INTRANSITIVE		第８週３日目
+優勝	ゆうしょう a victory / championship		第８週３日目
+勝負	しょうぶ a match / contest / game		第８週３日目
+勝敗	しょうはい victory or defeat		第８週３日目
+勝つ	かつ to win INTRANSITIVE		第８週３日目
+投手	とうしゅ a (baseball) pitcher		第８週３日目
+投書	とうしょ a letter to the editor		第８週３日目
+投資	とうし an investment		第８週３日目
+投げる	なげる to throw TRANSITIVE		第８週３日目
+軍	ぐん army / troops / the military authorities		第８週３日目
+～軍	～ぐん suffix for military force		第８週３日目
+軍隊	ぐんたい army / troops		第８週３日目
+兵士	へいし a soldier		第８週３日目
+～兵	～へい suffix for soldier		第８週３日目
+兵隊	へいたい a soldier / an army		第８週３日目
+捜査	そうさ a search / investigation		第８週３日目
+捜す	さがす to search / seek TRANSITIVE		第８週３日目
+転倒	てんとう falling down / upset / turnover		第８週３日目
+面倒 - 2 versions	めんどう 1. trouble / difficulty 2. care / attention		第８週３日目
+倒れる	たおれる to collapse / break down INTRANSITIVE		第８週３日目
+倒す	たおす to throw down / beat TRANSITIVE		第８週３日目
+骨	ほね a bone		第８週３日目
+方針	ほうしん a principle / policy		第８週３日目
+針路	しんろ a course / direction		第８週３日目
+針	はり a needle		第８週３日目
+針金	はりがね a wire		第８週３日目
+叫び	さけび a shout / scream		第８週３日目
+叫ぶ	さけぶ to shout / cry out INTRANSITIVE		第８週３日目
+頭脳	ずのう a brain / intellect		第８週４日目
+首脳	しゅのう head / brains (of a group of people)		第８週４日目
+抱く - 2 versions	1. だく to embrace / hold TRANSITIVE 2. いだく to embrace / hold / entertain (a hope / doubt etc.) TRANSITIVE		第８週４日目
+抱える	かかえる to hold / have (a responsibility / problem) TRANSITIVE		第８週４日目
+双方	そうほう both parties		第８週４日目
+双子	ふたご twins		第８週４日目
+尊重	そんちょう respect / esteem		第８週４日目
+尊敬	そんけい respect / esteem / reverence		第８週４日目
+雇用	こよう employment (long term) / hire		第８週４日目
+解雇	かいこ a dismissal		第８週４日目
+雇う	やとう to employ / hire TRANSITIVE		第８週４日目
+条件	じょうけん conditions / terms		第８週４日目
+条約	じょうやく a treaty		第８週４日目
+改善	かいぜん an improvement		第８週４日目
+善悪	ぜんあく good and evil / right and wrong		第８週４日目
+親善	しんぜん friendship / goodwill		第８週４日目
+法律	ほうりつ law / legislation		第８週４日目
+規律	きりつ order / discipline / rule		第８週４日目
+情勢	じょうせい condtion / situation		第８週４日目
+大勢	おおぜい a crowd / a great number of people		第８週４日目
+姿勢	しせい posture / attitude		第８週４日目
+勢い	いきおい momentum / force / might (Noun)		第８週４日目
+怖い	こわい scary		第８週４日目
+荒い	あらい round / rude / wild		第８週４日目
+荒れる	あれる to be stormy / rough INTRANSITIVE		第８週４日目
+荒らす	あらす to devestate / damage TRANSITIVE		第８週４日目
+耕地	こうち arable land		第８週４日目
+休耕地	きゅうこうち land out of cultivation		第８週４日目
+耕す	たがやす to farm / till / cultivate TRANSITIVE		第８週４日目
+風景	ふうけい scenery		第８週４日目
+光景	こうけい a scene / spectacle		第８週４日目
+景気	けいき business climate / condition		第８週４日目
+景色	けしき a scene / landscape		第８週４日目
+掘る	ほる to dig		第８週４日目
+掘り返す	ほりかえす to dig up TRANSITIVE		第８週４日目
+批判	ひはん a criticism / judgement		第８週５日目
+批評	ひひょう a criticism / review / commentary		第８週５日目
+判断	はんだん judgement / decision		第８週５日目
+評判	ひょうばん fame / reputation		第８週５日目
+裁判	さいばん trial		第８週５日目
+大臣	だいじん a cabinet minister		第８週５日目
+総理大臣	そうりだいじん Prime Minister		第８週５日目
+外務大臣	がいむだいじん Minister of Foreign Affairs		第８週５日目
+賢明な	けんめいな wise / prudent		第８週５日目
+賢い	かしこい wise / clever / smart		第８週５日目
+勇気	ゆうき courage / bravery		第８週５日目
+勇ましい	いさましい brave / valiant		第８週５日目
+敬意	けいい respect / honor		第８週５日目
+敬語	けいご honorific style of speech		第８週５日目
+敬う	うやまう to show respect / honor TRANSITIVE		第８週５日目
+評価	ひょうか valuation / estimation		第８週５日目
+評論	ひょうろん a criticism / critique		第８週５日目
+似る	にる to resemble INTRANSITIVE		第８週５日目
+似合う	にあう to suit / match INTRANSITIVE		第８週５日目
+似顔絵	にがおえ a portrait		第８週５日目
+犯人	はんにん an offender / a criminal		第８週５日目
+犯罪	はんざい a crime		第８週５日目
+犯す	おかす to commit / perpetrate TRANSITIVE		第８週５日目
+子孫	しそん descendants / posterity		第８週５日目
+孫	まご a grandchild		第８週５日目
+娘	むすめ a daughter		第８週５日目
+孫娘	まごむすめ a granddaughter		第８週５日目
+感覚	かんかく a sense / sensation		第８週５日目
+覚える	おぼえる to remember TRANSITIVE		第８週５日目
+覚ます	さます to awaken TRANSITIVE		第８週５日目
+覚める	さめる to wake up TRANSITIVE		第８週５日目
+目覚まし時計	めざましどけい an alarm clock		第８週５日目
+帽子	ぼうし a hat		第８週５日目
+環境	かんきょう environment / circumstance		第８週６日目
+環状線	かんじょうせん a belt line, loop line / road		第８週６日目
+境界	きょうかい a boundary / limit		第８週６日目
+国境	こっきょう a national or state border		第８週６日目
+境	さかい a border / boundary		第８週６日目
+県境	けんざかい a prefectural border		第８週６日目
+削減	さくげん a cut / reduction		第８週６日目
+増減	ぞうげん increase and decrease		第８週６日目
+加減	かげん an adjustment / modification / extent		第８週６日目
+減る	へる to decrease INTRANSITIVE		第８週６日目
+減らす	へらす to decrease / reduce TRANSITIVE		第８週６日目
+努力	どりょく effort		第８週６日目
+努める	つとめる to try (hard) / make efforts TRANSITIVE		第８週６日目
+～庁	～ちょう suffix for government office / agency		第８週６日目
+県庁	けんちょう prefectural office		第８週６日目
+社会保険庁	しゃかいほけんちょう Social Insurance Agency		第８週６日目
+長官	ちょうかん a director / chief		第８週６日目
+独自	どくじ original / peculiar		第８週６日目
+独身	どくしん single / unmarried		第８週６日目
+日独	にちどく Japan and Germany		第８週６日目
+独り言	ひとりごと speaking oneself / a monologue		第８週６日目
+独り	ひとり 1: one person; 2: alone; unmarried; solitary		第８週６日目
+競技	きょうぎ a game / match / contest		第８週６日目
+技	わざ an art / technique		第８週６日目
+財政	ざいせい fiscal and financial affairs		第８週６日目
+政府	せいふ government / administration		第８週６日目
+状況	じょうきょう a situation / circumstances		第８週６日目
+不況	ふきょう recession / depression		第８週６日目
+腕力	わんりょく physical strength		第８週６日目
+腕	うで arm		第８週６日目
+腕前	うでまえ ability / skill		第８週６日目
+上昇	じょうしょう rising / ascending		第８週７日目
+昇る	のぼる to rise INTRANSITIVE		第８週７日目
+幅	はば width / breadth		第８週７日目
+大幅な	おおはばな substantial / large-scale		第８週７日目
+著者	ちょしゃ an author / writer		第８週７日目
+著す	あらわす to write / publish		第８週７日目
+著しい	いちじるしい remarkable / considerable		第８週７日目
+占める	しめる to occupy TRANSITIVE		第８週７日目
+占う	うらなう to tell a person's fortune / forecast TRANSITIVE		第８週７日目
+比較	ひかく a comparision		第８週７日目
+比べる	くらべる to compare TRANSITIVE		第８週７日目
+比較的	ひかくてき comperative		第８週７日目
+平年並み	へいねんなみ an average year		第８週７日目
+並木	なみき a row of trees		第８週７日目
+並ぶ	ならぶ to stand in a line INTRANSITIVE		第８週７日目
+並べる	ならべる to line up / set out TRANSITIVE		第８週７日目
+通信		つうしん correspondence	第２週５日目
+信じる		しんじる believe	第２週５日目
+着信履歴		ちゃくしんりれき record of calls received	第２週５日目
+歴史		れきし history	第２週５日目
+履歴書		りれきしょ a resume / curriculum vitae	第２週５日目
+受信箱		じゅしんばこ inbox	第２週５日目
+ごみ箱		ごみばこ a recycle bin	第２週５日目
+送信箱		そうしんばこ outbox	第２週５日目
+新規		しんき new / fresh (e.g. a new business project)	第２週５日目
+変換		へんかん conversion	第２週５日目
+大変な		たいへんな very / serious	第２週５日目
+選考		せんこう a selection	第２週５日目
+選手		せんしゅ a player / an athelete	第２週５日目
+選ぶ		えらぶ choose	第２週５日目
+決める		きめる decide (something)	第２週５日目
+決まる		きまる be decided	第２週５日目
+登録		とうろく registration	第２週６日目
+登場		とうじょう appearance	第２週６日目
+登山		とざん mountain climbing	第２週６日目
+山登り		やまのぼり  mountain climbing	第２週６日目
+編集		へんしゅう editing	第２週６日目
+短編		たんぺん short work	第２週６日目
+長編		ちょうへん long work	第２週６日目
+編み物		あみもの knitting	第２週６日目
+機能		きのう a function	第２週６日目
+能力		のうりょく ability	第２週６日目
+修正		しゅうせい amendment / modification	第２週６日目
+修士		しゅうし master (holder of a masters degree)	第２週６日目
+修理		しゅうり repairs / fixing	第２週６日目
+完了		かんりょう finishing / completion	第２週６日目
+完成		かんせい completion / accomplishment	第２週６日目
+完備		かんび being fully equipped	第２週６日目
+終了		しゅうりょう end / expiration	第２週６日目
+修了		しゅうりょう completion (of a course)	第２週６日目
+画像		がぞう a picture / image	第２週６日目
+映像		えいぞう a reflection / image / video	第２週６日目
+現像		げんぞう developing (a photograph)	第２週６日目
+書類		しょるい a document	第２週６日目
+分類		ぶんるい classification	第２週６日目
+人類		じんるい the human race	第２週６日目
+書式		しょしき prescribed form	第２週６日目
+入学式		にゅうがくしき entrance ceremony	第２週６日目
+日本式		にほんしき Japanese style	第２週６日目
+正式な		せいしきな formal / official	第２週６日目
+保存		ほぞん preservation	第２週６日目
+生存		せいぞん survival	第２週６日目
+ご存知		ごぞんじ knowing (humble form)	第２週６日目
+存在		そんざい existence	第２週６日目
+認め印		みとめいん a private seal	第２週６日目
+印		しるし a mark / token	第２週６日目
+目印		めじるし a sign / landmark	第２週６日目
+印刷		いんさつ printing	第２週６日目
+拡大		かくだい enlargement	第２週６日目
+縮小		しゅくしょう reduction	第２週６日目
+様子		ようす an appearance / situation	第３週１日目
+同様		どうよう the same	第３週１日目
+～様		～さま an honorific added to people's names (particularly in letters)	第３週１日目
+要点		ようてん an essential point	第３週１日目
+要る		いる need	第３週１日目
+利用		りよう use	第３週１日目
+便利な		べんりな  convenient	第３週１日目
+金利		きんり interest (rate)	第３週１日目
+細かい		こまかい fine / small	第３週１日目
+在学		ざいがく attending school	第３週１日目
+金額		きんがく an amount / sum (of money)	第３週１日目
+込む 混む		こむ be congested / crowded	第３週１日目
+吸収		きゅうしゅう absorption	第３週１日目
+曲		きょく piece of music	第３週１日目
+汚染		おせん pollution	第３週１日目
+汚い		きたない dirty	第３週１日目
+汚す		よごす become dirty	第３週１日目
+汚れる		よごれる make dirty / pollute	第３週１日目
+殿様		とのさま a feudal lord	第３週１日目
+～殿		～どの Mr. / Mrs. / Esquire	第３週１日目

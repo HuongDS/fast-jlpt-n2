@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="100%" height="100%">
+  <defs>
+    <!-- Dark Tech Shield Background -->
+    <linearGradient id="fastJlptBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E1B4B" />
+      <stop offset="100%" stop-color="#090D16" />
+    </linearGradient>
+
+    <!-- Border Glow Gradient -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#818CF8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#C084FC" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#F43F5E" stop-opacity="0.6" />
+    </linearGradient>
+
+    <!-- Japanese Rising Sun Radial Gradient -->
+    <radialGradient id="risingSun" cx="50%" cy="46%" r="50%">
+      <stop offset="0%" stop-color="#FF4B72" />
+      <stop offset="55%" stop-color="#E11D48" />
+      <stop offset="100%" stop-color="#9F1239" />
+    </radialGradient>
+
+    <!-- Sun Halo Ambient Glow -->
+    <radialGradient id="sunHalo" cx="50%" cy="46%" r="60%">
+      <stop offset="0%" stop-color="#F43F5E" stop-opacity="0.35" />
+      <stop offset="100%" stop-color="#F43F5E" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Torii Gate White-Ice Gradient -->
+    <linearGradient id="toriiWhite" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#E2E8F0" />
+    </linearGradient>
+
+    <!-- Electric Lightning Bolt Gradient -->
+    <linearGradient id="electricBolt" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FDE047" />
+      <stop offset="50%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#EF4444" />
+    </linearGradient>
+
+    <!-- N2 Golden-Cyan Metallic Accent -->
+    <linearGradient id="accentGold" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="60%" stop-color="#F8FAFC" />
+      <stop offset="100%" stop-color="#E0E7FF" />
+    </linearGradient>
+
+    <linearGradient id="badgeRed" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FF385C" />
+      <stop offset="100%" stop-color="#E11D48" />
+    </linearGradient>
+
+    <!-- Soft Filter Shadow -->
+    <filter id="softGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.5" />
+    </filter>
+
+    <filter id="boltGlow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2.5" flood-color="#F59E0B" flood-opacity="0.6" />
+    </filter>
+  </defs>
+
+  <!-- 1. Squircle Shield Background -->
+  <rect
+    x="6"
+    y="6"
+    width="116"
+    height="116"
+    rx="32"
+    fill="url(#fastJlptBg)"
+    stroke="url(#borderGlow)"
+    stroke-width="2"
+  />
+
+  <!-- 2. Ambient Sun Glow Halo -->
+  <circle cx="64" cy="54" r="44" fill="url(#sunHalo)" />
+
+  <!-- 3. Rising Crimson Sun Disk (Hinomaru) -->
+  <circle cx="64" cy="54" r="28" fill="url(#risingSun)" filter="url(#softGlow)" />
+
+  <!-- 4. Japanese Torii Gate Arch (Kasagi) -->
+  <path
+    d="M 22 40 C 38 35, 50 33, 64 33 C 78 33, 90 35, 106 40 C 108 40.8, 108 43, 106 44 C 92 40, 78 38, 64 38 C 50 38, 36 40, 22 44 C 20 43, 20 40.8, 22 40 Z"
+    fill="url(#toriiWhite)"
+    filter="url(#softGlow)"
+  />
+  <rect x="32" y="47" width="64" height="4.5" rx="1.5" fill="url(#toriiWhite)" opacity="0.95" />
+
+  <!-- Torii Pillars -->
+  <rect x="35" y="49" width="5.5" height="42" rx="2" fill="url(#toriiWhite)" opacity="0.85" />
+  <rect x="87.5" y="49" width="5.5" height="42" rx="2" fill="url(#toriiWhite)" opacity="0.85" />
+
+  <!-- 5. Electric Lightning Strike (FAST) -->
+  <polygon
+    points="74,18 53,52 65,52 47,88 77,48 64,48"
+    fill="url(#electricBolt)"
+    filter="url(#boltGlow)"
+  />
+
+  <!-- 6. Bold "N2" -->
+  <text
+    x="45"
+    y="97"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-size="28"
+    font-weight="900"
+    fill="url(#accentGold)"
+    text-anchor="middle"
+    letter-spacing="-1px"
+    filter="url(#softGlow)"
+  >N</text>
+
+  <rect x="63" y="73" width="26" height="26" rx="8" fill="url(#badgeRed)" stroke="#FFFFFF" stroke-width="1.5" />
+  <text
+    x="76"
+    y="93"
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif"
+    font-size="20"
+    font-weight="900"
+    fill="#FFFFFF"
+    text-anchor="middle"
+  >2</text>
+
+  <!-- Speed Dash Accents -->
+  <rect x="42" y="104" width="8" height="2" rx="1" fill="#818CF8" opacity="0.7" />
+  <rect x="54" y="104" width="16" height="2" rx="1" fill="#F43F5E" opacity="0.9" />
+  <rect x="74" y="104" width="8" height="2" rx="1" fill="#F59E0B" opacity="0.7" />
+</svg>
